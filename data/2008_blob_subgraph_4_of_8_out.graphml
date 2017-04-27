@@ -1,0 +1,2963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="g_name" for="graph" attr.name="name" attr.type="string"/>
+  <key id="v_color" for="node" attr.name="color" attr.type="string"/>
+  <key id="v_filtered_pagerank" for="node" attr.name="filtered_pagerank" attr.type="double"/>
+  <key id="v_original_pagerank" for="node" attr.name="original_pagerank" attr.type="double"/>
+  <key id="v_original_enumeration" for="node" attr.name="original_enumeration" attr.type="double"/>
+  <key id="v_id" for="node" attr.name="id" attr.type="string"/>
+  <key id="v_local_pagerank" for="node" attr.name="local_pagerank" attr.type="double"/>
+  <key id="v_nodetype" for="node" attr.name="nodetype" attr.type="string"/>
+  <key id="v_blob_clustering" for="node" attr.name="blob_clustering" attr.type="double"/>
+  <key id="v_local_clustering" for="node" attr.name="local_clustering" attr.type="double"/>
+  <key id="v_blob_pagerank" for="node" attr.name="blob_pagerank" attr.type="double"/>
+  <key id="v_label1" for="node" attr.name="label1" attr.type="string"/>
+  <key id="v_label" for="node" attr.name="label" attr.type="string"/>
+  <key id="v_label2" for="node" attr.name="label2" attr.type="string"/>
+  <key id="v_filtered_betweenness" for="node" attr.name="filtered_betweenness" attr.type="double"/>
+  <key id="v_local_betweenness" for="node" attr.name="local_betweenness" attr.type="double"/>
+  <key id="v_blob_betweenness" for="node" attr.name="blob_betweenness" attr.type="double"/>
+  <key id="v_filtered_clustering" for="node" attr.name="filtered_clustering" attr.type="double"/>
+  <key id="e_source" for="edge" attr.name="source" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <key id="e_target" for="edge" attr.name="target" attr.type="string"/>
+  <graph id="G" edgedefault="undirected">
+    <data key="g_name">2008 blob subgraph 4 of 8</data>
+    <node id="n0">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">0.000450091</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">20</data>
+      <data key="v_id">Jay Sulzberger &lt;jays () panix com&gt;</data>
+      <data key="v_local_pagerank">0.00414104</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">0</data>
+      <data key="v_blob_pagerank">0.000516273</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Jay Sulzberger &lt;jays () panix com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">33364.7</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">33364.7</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n1">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">0.000342165</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">24</data>
+      <data key="v_id">str0ke &lt;str0ke () milw0rm com&gt;</data>
+      <data key="v_local_pagerank">0.00461355</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">0</data>
+      <data key="v_blob_pagerank">0.000392477</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">str0ke &lt;str0ke () milw0rm com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">52707.7</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">52707.7</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n2">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">0.00106837</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">26</data>
+      <data key="v_id">Larry Seltzer &lt;Larry () larryseltzer com&gt;</data>
+      <data key="v_local_pagerank">0.0691495</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">0.00122546</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Larry Seltzer &lt;Larry () larryseltzer com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">152960</data>
+      <data key="v_local_betweenness">4051.55</data>
+      <data key="v_blob_betweenness">152960</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n3">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">0.00142158</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">31</data>
+      <data key="v_id">Peter Dawson &lt;slash.pd () gmail com&gt;</data>
+      <data key="v_local_pagerank">0.0127081</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">4</data>
+      <data key="v_blob_pagerank">0.00163061</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Peter Dawson &lt;slash.pd () gmail com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">316447</data>
+      <data key="v_local_betweenness">174.987</data>
+      <data key="v_blob_betweenness">316447</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n4">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">0.000788468</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">110</data>
+      <data key="v_id">Tonnerre Lombard &lt;tonnerre.lombard () sygroup ch&gt;</data>
+      <data key="v_local_pagerank">0.0162449</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">0.000904406</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Tonnerre Lombard &lt;tonnerre.lombard () sygroup ch&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">130043</data>
+      <data key="v_local_betweenness">345</data>
+      <data key="v_blob_betweenness">130043</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n5">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">0.000329532</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">211</data>
+      <data key="v_id">bugtraq () cgisecurity net</data>
+      <data key="v_local_pagerank">0.0123027</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">3</data>
+      <data key="v_blob_pagerank">0.000377987</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">bugtraq () cgisecurity net</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">14796.3</data>
+      <data key="v_local_betweenness">231</data>
+      <data key="v_blob_betweenness">14796.3</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n6">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">0.00137303</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">213</data>
+      <data key="v_id">Paul Schmehl &lt;pauls () utdallas edu&gt;</data>
+      <data key="v_local_pagerank">0.0228849</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">1</data>
+      <data key="v_blob_pagerank">0.00157492</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Paul Schmehl &lt;pauls () utdallas edu&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">283442</data>
+      <data key="v_local_betweenness">739.352</data>
+      <data key="v_blob_betweenness">283442</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n7">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">0.000298522</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">219</data>
+      <data key="v_id">Ed Carp &lt;erc () pobox com&gt;</data>
+      <data key="v_local_pagerank">0.00410596</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">4</data>
+      <data key="v_blob_pagerank">0.000342417</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Ed Carp &lt;erc () pobox com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">16658.7</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">16658.7</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n8">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">0.000355739</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">239</data>
+      <data key="v_id">security curmudgeon &lt;jericho () attrition org&gt;</data>
+      <data key="v_local_pagerank">0.00414104</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">0</data>
+      <data key="v_blob_pagerank">0.000408047</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">security curmudgeon &lt;jericho () attrition org&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">57489.1</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">57489.1</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n9">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">0.000155815</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">270</data>
+      <data key="v_id">Bill Stout &lt;billbrietstout () yahoo com&gt;</data>
+      <data key="v_local_pagerank">0.00410596</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">4</data>
+      <data key="v_blob_pagerank">0.000178727</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Bill Stout &lt;billbrietstout () yahoo com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">2282.11</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">2282.11</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n10">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">8.27957e-05</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">287</data>
+      <data key="v_id">dxp &lt;dxp2532 () gmail com&gt;</data>
+      <data key="v_local_pagerank">0.00410596</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">4</data>
+      <data key="v_blob_pagerank">9.49701e-05</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">dxp &lt;dxp2532 () gmail com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">67.0617</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">67.0617</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n11">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">0.000208027</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">321</data>
+      <data key="v_id">Randall M &lt;randallm () fidmail com&gt;</data>
+      <data key="v_local_pagerank">0.00414104</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">0</data>
+      <data key="v_blob_pagerank">0.000238615</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Randall M &lt;randallm () fidmail com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">8633.25</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">8633.25</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n12">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">5.27275e-05</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">414</data>
+      <data key="v_id">Linval Thompson &lt;xstasi () gmail com&gt;</data>
+      <data key="v_local_pagerank">0.00410596</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">4</data>
+      <data key="v_blob_pagerank">6.04806e-05</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Linval Thompson &lt;xstasi () gmail com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n13">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">5.27275e-05</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">418</data>
+      <data key="v_id">mgk.mailing &lt;mgk.mailing () googlemail com&gt;</data>
+      <data key="v_local_pagerank">0.00410596</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">4</data>
+      <data key="v_blob_pagerank">6.04806e-05</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">mgk.mailing &lt;mgk.mailing () googlemail com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n14">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">0.000113656</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">422</data>
+      <data key="v_id">Tyler Reguly &lt;ht () computerdefense org&gt;</data>
+      <data key="v_local_pagerank">0.00410596</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">4</data>
+      <data key="v_blob_pagerank">0.000130369</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Tyler Reguly &lt;ht () computerdefense org&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">5592</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">5592</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n15">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">0.000710019</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">541</data>
+      <data key="v_id">evilrabbi &lt;evilrabbi () gmail com&gt;</data>
+      <data key="v_local_pagerank">0.0072033</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">0</data>
+      <data key="v_blob_pagerank">0.000814422</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">evilrabbi &lt;evilrabbi () gmail com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">84719.4</data>
+      <data key="v_local_betweenness">34.6607</data>
+      <data key="v_blob_betweenness">84719.4</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n16">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">0.000301688</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">621</data>
+      <data key="v_id">matthew wollenweber &lt;mwollenweber () gmail com&gt;</data>
+      <data key="v_local_pagerank">0.00414104</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">0</data>
+      <data key="v_blob_pagerank">0.000346049</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">matthew wollenweber &lt;mwollenweber () gmail com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">27770.1</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">27770.1</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n17">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">0.000462861</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">625</data>
+      <data key="v_id">Jay &lt;jay.tomas () infosecguru com&gt;</data>
+      <data key="v_local_pagerank">0.0244197</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">1</data>
+      <data key="v_blob_pagerank">0.000530921</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Jay &lt;jay.tomas () infosecguru com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">47313</data>
+      <data key="v_local_betweenness">511.58</data>
+      <data key="v_blob_betweenness">47313</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n18">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">0.000257857</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">655</data>
+      <data key="v_id">Roger A. Grimes &lt;roger () banneretcs com&gt;</data>
+      <data key="v_local_pagerank">0.00474429</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">0.000295773</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Roger A. Grimes &lt;roger () banneretcs com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">20886.4</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">20886.4</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n19">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">0.000330797</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">687</data>
+      <data key="v_id">Petko D. Petkov &lt;pdp.gnucitizen () googlemail com&gt;</data>
+      <data key="v_local_pagerank">0.0250042</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">1</data>
+      <data key="v_blob_pagerank">0.000379437</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Petko D. Petkov &lt;pdp.gnucitizen () googlemail com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">22500.1</data>
+      <data key="v_local_betweenness">728.34</data>
+      <data key="v_blob_betweenness">22500.1</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n20">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">0.000374952</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">689</data>
+      <data key="v_id">Michael Krymson &lt;krymson () gmail com&gt;</data>
+      <data key="v_local_pagerank">0.00485611</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">1</data>
+      <data key="v_blob_pagerank">0.000430086</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Michael Krymson &lt;krymson () gmail com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">26054.9</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">26054.9</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n21">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">0.000116284</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">702</data>
+      <data key="v_id">jipe foo &lt;foojipe () gmail com&gt;</data>
+      <data key="v_local_pagerank">0.00398083</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">3</data>
+      <data key="v_blob_pagerank">0.000133383</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">jipe foo &lt;foojipe () gmail com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">488.759</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">488.759</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n22">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">0.00112768</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">703</data>
+      <data key="v_id">Steven Adair &lt;steven () securityzone org&gt;</data>
+      <data key="v_local_pagerank">0.0146341</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">3</data>
+      <data key="v_blob_pagerank">0.0012935</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Steven Adair &lt;steven () securityzone org&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">155701</data>
+      <data key="v_local_betweenness">123.29</data>
+      <data key="v_blob_betweenness">155701</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n23">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">0.000243723</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">705</data>
+      <data key="v_id">Eric Rachner &lt;eric () rachner us&gt;</data>
+      <data key="v_local_pagerank">0.00691032</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">0.00027956</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Eric Rachner &lt;eric () rachner us&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">16614.2</data>
+      <data key="v_local_betweenness">28.6256</data>
+      <data key="v_blob_betweenness">16614.2</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n24">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">0.00074068</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">715</data>
+      <data key="v_id">Bernhard Mueller &lt;research () sec-consult com&gt;</data>
+      <data key="v_local_pagerank">0.00420068</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">0.000849591</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Bernhard Mueller &lt;research () sec-consult com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">63443</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">63443</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n25">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">6.01356e-05</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">722</data>
+      <data key="v_id">TheM . &lt;them.root () gmail com&gt;</data>
+      <data key="v_local_pagerank">0.00420068</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">6.8978e-05</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">TheM . &lt;them.root () gmail com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n26">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">6.01356e-05</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">726</data>
+      <data key="v_id">Peter Watkins &lt;peterw () usa net&gt;</data>
+      <data key="v_local_pagerank">0.00420068</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">6.8978e-05</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Peter Watkins &lt;peterw () usa net&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n27">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">6.01356e-05</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">728</data>
+      <data key="v_id">Daniel O&apos;Connor &lt;doconnor () gsoft com au&gt;</data>
+      <data key="v_local_pagerank">0.00420068</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">6.8978e-05</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Daniel O&apos;Connor &lt;doconnor () gsoft com au&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n28">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">0.000351029</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">732</data>
+      <data key="v_id">Tim &lt;tim-security () sentinelchicken org&gt;</data>
+      <data key="v_local_pagerank">0.0236203</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">0.000402644</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Tim &lt;tim-security () sentinelchicken org&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">35630.6</data>
+      <data key="v_local_betweenness">963.417</data>
+      <data key="v_blob_betweenness">35630.6</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n29">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">0.000159499</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">737</data>
+      <data key="v_id">Thor (Hammer of God) &lt;thor () hammerofgod com&gt;</data>
+      <data key="v_local_pagerank">0.008268</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">0.000182952</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Thor (Hammer of God) &lt;thor () hammerofgod com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">7661.95</data>
+      <data key="v_local_betweenness">116</data>
+      <data key="v_blob_betweenness">7661.95</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n30">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">6.01356e-05</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">745</data>
+      <data key="v_id">Bryon Roche &lt;kain () kain org&gt;</data>
+      <data key="v_local_pagerank">0.00420068</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">6.8978e-05</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Bryon Roche &lt;kain () kain org&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n31">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">6.01356e-05</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">749</data>
+      <data key="v_id">echo6 &lt;echo6_uk () yahoo com&gt;</data>
+      <data key="v_local_pagerank">0.00420068</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">6.8978e-05</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">echo6 &lt;echo6_uk () yahoo com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n32">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">6.01356e-05</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">750</data>
+      <data key="v_id">Erik Trulsson &lt;ertr1013 () student uu se&gt;</data>
+      <data key="v_local_pagerank">0.00420068</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">6.8978e-05</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Erik Trulsson &lt;ertr1013 () student uu se&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n33">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">0.000176488</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">751</data>
+      <data key="v_id">Stefan Kanthak &lt;stefan.kanthak () nexgo de&gt;</data>
+      <data key="v_local_pagerank">0.00420068</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">0.00020244</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Stefan Kanthak &lt;stefan.kanthak () nexgo de&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">32404.3</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">32404.3</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n34">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">9.18455e-05</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">752</data>
+      <data key="v_id">Jardel Weyrich &lt;w.jardel () gmail com&gt;</data>
+      <data key="v_local_pagerank">0.00420068</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">0.000105351</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Jardel Weyrich &lt;w.jardel () gmail com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">3757.57</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">3757.57</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n35">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">0.000308895</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">753</data>
+      <data key="v_id">Kern &lt;timetrap () gmail com&gt;</data>
+      <data key="v_local_pagerank">0.0192261</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">1</data>
+      <data key="v_blob_pagerank">0.000354316</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Kern &lt;timetrap () gmail com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">25009.8</data>
+      <data key="v_local_betweenness">662.047</data>
+      <data key="v_blob_betweenness">25009.8</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n36">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">6.01356e-05</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">778</data>
+      <data key="v_id">FD &lt;fd () cms ac&gt;</data>
+      <data key="v_local_pagerank">0.00420068</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">6.8978e-05</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">FD &lt;fd () cms ac&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n37">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">0.000239486</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">820</data>
+      <data key="v_id">Fionnbharr &lt;thouth () gmail com&gt;</data>
+      <data key="v_local_pagerank">0.00414391</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">1</data>
+      <data key="v_blob_pagerank">0.0002747</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Fionnbharr &lt;thouth () gmail com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">20975.1</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">20975.1</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n38">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">9.61677e-05</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">839</data>
+      <data key="v_id">Steven Rakick &lt;stevenrakick () yahoo com&gt;</data>
+      <data key="v_local_pagerank">0.00681582</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">1</data>
+      <data key="v_blob_pagerank">0.000110308</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Steven Rakick &lt;stevenrakick () yahoo com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">419.063</data>
+      <data key="v_local_betweenness">64.6904</data>
+      <data key="v_blob_betweenness">419.063</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n39">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">0.00026221</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">840</data>
+      <data key="v_id">Kurt Buff &lt;kurt.buff () gmail com&gt;</data>
+      <data key="v_local_pagerank">0.00390138</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">1</data>
+      <data key="v_blob_pagerank">0.000300766</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Kurt Buff &lt;kurt.buff () gmail com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">17424.6</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">17424.6</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n40">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">6.61016e-05</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">842</data>
+      <data key="v_id">Gorn &lt;gorn () xs4all nl&gt;</data>
+      <data key="v_local_pagerank">0.00418562</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">1</data>
+      <data key="v_blob_pagerank">7.58213e-05</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Gorn &lt;gorn () xs4all nl&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n41">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">6.61016e-05</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">844</data>
+      <data key="v_id">Pedro Hugo &lt;fractalg () highspeedweb net&gt;</data>
+      <data key="v_local_pagerank">0.00418562</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">1</data>
+      <data key="v_blob_pagerank">7.58213e-05</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Pedro Hugo &lt;fractalg () highspeedweb net&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n42">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">0.000276867</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">846</data>
+      <data key="v_id">John C. A. Bambenek, GCIH, CISSP &lt;bambenek.infosec () gmail com&gt;</data>
+      <data key="v_local_pagerank">0.0155916</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">1</data>
+      <data key="v_blob_pagerank">0.000317578</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">John C. A. Bambenek, GCIH, CISSP &lt;bambenek.infosec () gmail com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">9810.11</data>
+      <data key="v_local_betweenness">345</data>
+      <data key="v_blob_betweenness">9810.11</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n43">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">0.001031</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">869</data>
+      <data key="v_id">Morning Wood &lt;se_cur_ity () hotmail com&gt;</data>
+      <data key="v_local_pagerank">0.0439357</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">0</data>
+      <data key="v_blob_pagerank">0.0011826</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Morning Wood &lt;se_cur_ity () hotmail com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">191613</data>
+      <data key="v_local_betweenness">1176.46</data>
+      <data key="v_blob_betweenness">191613</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n44">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">5.73125e-05</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">967</data>
+      <data key="v_id">Damien Lawless &lt;securecode () gmail com&gt;</data>
+      <data key="v_local_pagerank">0.00474731</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">0</data>
+      <data key="v_blob_pagerank">6.57399e-05</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Damien Lawless &lt;securecode () gmail com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n45">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">5.75119e-05</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">1148</data>
+      <data key="v_id">xxx xxx &lt;kaharas () gmail com&gt;</data>
+      <data key="v_local_pagerank">0.00421588</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">3</data>
+      <data key="v_blob_pagerank">6.59685e-05</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">xxx xxx &lt;kaharas () gmail com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n46">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">5.75119e-05</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">1168</data>
+      <data key="v_id">Alex Kirk &lt;alex.kirk () sourcefire com&gt;</data>
+      <data key="v_local_pagerank">0.00421588</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">3</data>
+      <data key="v_blob_pagerank">6.59685e-05</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Alex Kirk &lt;alex.kirk () sourcefire com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n47">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">5.75119e-05</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">1173</data>
+      <data key="v_id">teo &lt;teOok () tele2 it&gt;</data>
+      <data key="v_local_pagerank">0.00421588</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">3</data>
+      <data key="v_blob_pagerank">6.59685e-05</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">teo &lt;teOok () tele2 it&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n48">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">5.75119e-05</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">1176</data>
+      <data key="v_id">Goetz Von Berlichingen &lt;goetzvonberlichingen () comcast net&gt;</data>
+      <data key="v_local_pagerank">0.00421588</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">3</data>
+      <data key="v_blob_pagerank">6.59685e-05</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Goetz Von Berlichingen &lt;goetzvonberlichingen () comcast net&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n49">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">5.89177e-05</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">1297</data>
+      <data key="v_id">Christopher Soghoian &lt;csoghoian () gmail com&gt;</data>
+      <data key="v_local_pagerank">0.00474429</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">0</data>
+      <data key="v_blob_pagerank">6.7581e-05</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Christopher Soghoian &lt;csoghoian () gmail com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n50">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">5.50652e-05</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">1369</data>
+      <data key="v_id">John Lowry &lt;jlowry () bbn com&gt;</data>
+      <data key="v_local_pagerank">0.00414104</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">0</data>
+      <data key="v_blob_pagerank">6.3162e-05</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">John Lowry &lt;jlowry () bbn com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n51">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">5.50652e-05</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">1373</data>
+      <data key="v_id">Brian Anderson &lt;brian.anderson () mail darton edu&gt;</data>
+      <data key="v_local_pagerank">0.00414104</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">0</data>
+      <data key="v_blob_pagerank">6.3162e-05</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Brian Anderson &lt;brian.anderson () mail darton edu&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n52">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">5.50652e-05</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">1374</data>
+      <data key="v_id">Brian Anderson &lt;bla () darton edu&gt;</data>
+      <data key="v_local_pagerank">0.00414104</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">0</data>
+      <data key="v_blob_pagerank">6.3162e-05</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Brian Anderson &lt;bla () darton edu&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n53">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">5.50652e-05</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">1378</data>
+      <data key="v_id">&lt;rlogin () hush ai&gt;</data>
+      <data key="v_local_pagerank">0.00414104</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">0</data>
+      <data key="v_blob_pagerank">6.3162e-05</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">&lt;rlogin () hush ai&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n54">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">0.000117316</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">1381</data>
+      <data key="v_id">Aberration State &lt;sdufresno () cyber-rights net&gt;</data>
+      <data key="v_local_pagerank">0.00414104</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">0</data>
+      <data key="v_blob_pagerank">0.000134566</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Aberration State &lt;sdufresno () cyber-rights net&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">5592</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">5592</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n55">
+      <data key="v_color">#FF0000</data>
+      <data key="v_filtered_pagerank">5.50652e-05</data>
+      <data key="v_original_pagerank">8.42794e-05</data>
+      <data key="v_original_enumeration">1396</data>
+      <data key="v_id">Forest Lobster &lt;forestlobster () gmail com&gt;</data>
+      <data key="v_local_pagerank">0.00414104</data>
+      <data key="v_nodetype">author</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">0</data>
+      <data key="v_blob_pagerank">6.3162e-05</data>
+      <data key="v_label1">NA</data>
+      <data key="v_label">Forest Lobster &lt;forestlobster () gmail com&gt;</data>
+      <data key="v_label2">NA</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n56">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000136558</data>
+      <data key="v_original_pagerank">0.000156731</data>
+      <data key="v_original_enumeration">2460</data>
+      <data key="v_id">2007_Jan_29</data>
+      <data key="v_local_pagerank">0.00394287</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">0.000156637</data>
+      <data key="v_label1">2007_Jan_30,2007_Jan_31</data>
+      <data key="v_label">Fwd:  Vista Reduced Function mode triggered</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Jan/29</data>
+      <data key="v_filtered_betweenness">2759.88</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">2759.88</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n57">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000219293</data>
+      <data key="v_original_pagerank">0.000166978</data>
+      <data key="v_original_enumeration">2488</data>
+      <data key="v_id">2007_Jan_55</data>
+      <data key="v_local_pagerank">0.00394287</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">0.000251538</data>
+      <data key="v_label1">2007_Jan_55,2007_Jan_56,2007_Jan_58,2007_Jan_70,2007_Jan_154</data>
+      <data key="v_label">Re: [WEB SECURITY] Universal XSS with PDF files:	highly dangerous</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Jan/55</data>
+      <data key="v_filtered_betweenness">16388.9</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">16388.9</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n58">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">5.46912e-05</data>
+      <data key="v_original_pagerank">8.50934e-05</data>
+      <data key="v_original_enumeration">2559</data>
+      <data key="v_id">2007_Jan_112</data>
+      <data key="v_local_pagerank">0.00394287</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">6.27331e-05</data>
+      <data key="v_label1">2007_Jan_112</data>
+      <data key="v_label">Re: Concurrency strikes MSIE (potentially	exploitablemsxml3 flaws)</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Jan/112</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n59">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">9.6938e-05</data>
+      <data key="v_original_pagerank">9.21189e-05</data>
+      <data key="v_original_enumeration">2725</data>
+      <data key="v_id">2007_Jan_247</data>
+      <data key="v_local_pagerank">0.00475695</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">3</data>
+      <data key="v_blob_pagerank">0.000111192</data>
+      <data key="v_label1">2007_Jan_247,2007_Jan_248</data>
+      <data key="v_label">Re: Web Honeynet Project: announcement,</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Jan/247</data>
+      <data key="v_filtered_betweenness">909.945</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">909.945</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n60">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">5.46912e-05</data>
+      <data key="v_original_pagerank">8.59075e-05</data>
+      <data key="v_original_enumeration">2845</data>
+      <data key="v_id">2008_Jan_377</data>
+      <data key="v_local_pagerank">0.00394287</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">6.27331e-05</data>
+      <data key="v_label1">2008_Jan_377,2008_Jan_377</data>
+      <data key="v_label">Re: [FDSA] Sort - Critical Format	StringVulnerability</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2008/Jan/377</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n61">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000656069</data>
+      <data key="v_original_pagerank">0.000428483</data>
+      <data key="v_original_enumeration">3044</data>
+      <data key="v_id">2008_Jan_558</data>
+      <data key="v_local_pagerank">0.0300153</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">4</data>
+      <data key="v_blob_pagerank">0.000752538</data>
+      <data key="v_label1">2008_Jan_559,2008_Jan_559,2008_Jan_560,2008_Jan_560,2008_Jan_561,2008_Jan_561,2008_Jan_562,2008_Jan_562,2008_Jan_563,2008_Jan_563,2008_Jan_564,2008_Jan_564,2008_Jan_565,2008_Jan_565,2008_Jan_566,2008_Jan_566,2008_Jan_567,2008_Jan_567,2008_Jan_569,2008_Jan_569,2008_Jan_570,2008_Jan_570,2008_Jan_571,2008_Jan_571,2008_Jan_574,2008_Jan_574,2008_Jan_575,2008_Jan_575,2008_Jan_576,2008_Jan_576,2008_Jan_580,2008_Jan_580,2008_Jan_582,2008_Jan_582,2008_Jan_584,2008_Jan_584,2008_Jan_586,2008_Jan_586,2008_Jan_588,2008_Jan_588,2008_Jan_599,2008_Jan_599,2008_Jan_602,2008_Jan_602,2008_Jan_604,2008_Jan_604</data>
+      <data key="v_label">Save XP</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2008/Jan/558</data>
+      <data key="v_filtered_betweenness">111178</data>
+      <data key="v_local_betweenness">807.331</data>
+      <data key="v_blob_betweenness">111178</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n62">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000179395</data>
+      <data key="v_original_pagerank">9.94031e-05</data>
+      <data key="v_original_enumeration">3108</data>
+      <data key="v_id">2008_Feb_35</data>
+      <data key="v_local_pagerank">0.00394287</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">0.000205774</data>
+      <data key="v_label1">2008_Feb_35,2008_Feb_35,2008_Feb_37,2008_Feb_37,2008_Feb_43,2008_Feb_43,2008_Feb_45,2008_Feb_45,2008_Feb_59,2008_Feb_59,2008_Feb_60,2008_Feb_60,2008_Feb_62,2008_Feb_62</data>
+      <data key="v_label">Re: Firefox 2.0.0.12 SSL Spoofing and Domain	Guessing vulnerabilities</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2008/Feb/35</data>
+      <data key="v_filtered_betweenness">13403.1</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">13403.1</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n63">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">6.35452e-05</data>
+      <data key="v_original_pagerank">8.76907e-05</data>
+      <data key="v_original_enumeration">3663</data>
+      <data key="v_id">2008_Mar_3</data>
+      <data key="v_local_pagerank">0.00430741</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">1</data>
+      <data key="v_blob_pagerank">7.2889e-05</data>
+      <data key="v_label1"></data>
+      <data key="v_label">The Router Hacking Challenge is Over!</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2008/Mar/3</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n64">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">6.35452e-05</data>
+      <data key="v_original_pagerank">8.76907e-05</data>
+      <data key="v_original_enumeration">3702</data>
+      <data key="v_id">2008_Mar_31</data>
+      <data key="v_local_pagerank">0.00430741</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">1</data>
+      <data key="v_blob_pagerank">7.2889e-05</data>
+      <data key="v_label1"></data>
+      <data key="v_label">like goolag but online</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2008/Mar/31</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n65">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000216716</data>
+      <data key="v_original_pagerank">0.000145108</data>
+      <data key="v_original_enumeration">3712</data>
+      <data key="v_id">2008_Mar_37</data>
+      <data key="v_local_pagerank">0.0127512</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">3</data>
+      <data key="v_blob_pagerank">0.000248582</data>
+      <data key="v_label1">2008_Mar_39,2008_Mar_39,2008_Mar_40,2008_Mar_40,2008_Mar_42,2008_Mar_42,2008_Mar_44,2008_Mar_44,2008_Mar_45,2008_Mar_45,2008_Mar_46,2008_Mar_46</data>
+      <data key="v_label">Hack into a Windows PC - no password needed</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2008/Mar/37</data>
+      <data key="v_filtered_betweenness">23352</data>
+      <data key="v_local_betweenness">188.828</data>
+      <data key="v_blob_betweenness">23352</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n66">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000821661</data>
+      <data key="v_original_pagerank">0.000825416</data>
+      <data key="v_original_enumeration">3731</data>
+      <data key="v_id">2008_Mar_58</data>
+      <data key="v_local_pagerank">0.0551433</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">0.000942479</data>
+      <data key="v_label1">2008_Mar_62,2008_Mar_62,2008_Mar_85,2008_Mar_85,2008_Mar_92,2008_Mar_92,2008_Mar_94,2008_Mar_94,2008_Mar_95,2008_Mar_95,2008_Mar_106,2008_Mar_106,2008_Mar_110,2008_Mar_110,2008_Mar_111,2008_Mar_111,2008_Mar_112,2008_Mar_112,2008_Mar_114,2008_Mar_114,2008_Mar_115,2008_Mar_115,2008_Mar_116,2008_Mar_116,2008_Mar_118,2008_Mar_118,2008_Mar_120,2008_Mar_120,2008_Mar_121,2008_Mar_121,2008_Mar_126,2008_Mar_126,2008_Mar_132,2008_Mar_132,2008_Mar_133,2008_Mar_133,2008_Mar_134,2008_Mar_134,2008_Mar_135,2008_Mar_135,2008_Mar_139,2008_Mar_139,2008_Mar_140,2008_Mar_140,2008_Mar_143,2008_Mar_143,2008_Mar_144,2008_Mar_144,2008_Mar_145,2008_Mar_145,2008_Mar_148,2008_Mar_148,2008_Mar_151,2008_Mar_151,2008_Mar_152,2008_Mar_152,2008_Mar_153,2008_Mar_153,2008_Mar_154,2008_Mar_154,2008_Mar_155,2008_Mar_155,2008_Mar_157,2008_Mar_157,2008_Mar_160,2008_Mar_160,2008_Mar_213,2008_Mar_213,2008_Mar_216,2008_Mar_216,2008_Mar_242,2008_Mar_242</data>
+      <data key="v_label">Firewire Attack on Windows Vista</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2008/Mar/58</data>
+      <data key="v_filtered_betweenness">113470</data>
+      <data key="v_local_betweenness">2125.16</data>
+      <data key="v_blob_betweenness">113470</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n67">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000508647</data>
+      <data key="v_original_pagerank">0.000334672</data>
+      <data key="v_original_enumeration">3753</data>
+      <data key="v_id">2008_Mar_71</data>
+      <data key="v_local_pagerank">0.00664334</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">4</data>
+      <data key="v_blob_pagerank">0.000583439</data>
+      <data key="v_label1">2008_Mar_73,2008_Mar_73,2008_Mar_74,2008_Mar_74,2008_Mar_75,2008_Mar_75,2008_Mar_76,2008_Mar_76,2008_Mar_77,2008_Mar_77,2008_Mar_78,2008_Mar_78,2008_Mar_79,2008_Mar_79,2008_Mar_80,2008_Mar_80,2008_Mar_81,2008_Mar_81,2008_Mar_82,2008_Mar_82,2008_Mar_83,2008_Mar_83,2008_Mar_84,2008_Mar_84,2008_Mar_87,2008_Mar_87,2008_Mar_88,2008_Mar_88,2008_Mar_89,2008_Mar_89,2008_Mar_90,2008_Mar_90,2008_Mar_91,2008_Mar_91,2008_Mar_98,2008_Mar_98,2008_Mar_99,2008_Mar_99,2008_Mar_102,2008_Mar_102,2008_Mar_113,2008_Mar_113</data>
+      <data key="v_label">Chinese backdoors &quot;hidden in router firmware&quot;</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2008/Mar/71</data>
+      <data key="v_filtered_betweenness">102810</data>
+      <data key="v_local_betweenness">31.3743</data>
+      <data key="v_blob_betweenness">102810</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n68">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000367872</data>
+      <data key="v_original_pagerank">0.000398732</data>
+      <data key="v_original_enumeration">3782</data>
+      <data key="v_id">2007_Mar_98</data>
+      <data key="v_local_pagerank">0.00817201</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">0.000421965</data>
+      <data key="v_label1">2007_Mar_111,2007_Mar_112,2007_Mar_114,2007_Mar_116,2007_Mar_118,2007_Mar_119,2007_Mar_120,2007_Mar_122,2007_Mar_124,2007_Mar_125,2007_Mar_127,2007_Mar_128,2007_Mar_129,2007_Mar_130,2007_Mar_131,2007_Mar_135,2007_Mar_136,2007_Mar_146,2007_Mar_155,2007_Mar_159,2007_Mar_163</data>
+      <data key="v_label">Microsoft Windows Vista/2003/XP/2000 file	management security issues</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Mar/98</data>
+      <data key="v_filtered_betweenness">21077.8</data>
+      <data key="v_local_betweenness">116</data>
+      <data key="v_blob_betweenness">21077.8</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n69">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000316854</data>
+      <data key="v_original_pagerank">0.000280246</data>
+      <data key="v_original_enumeration">3786</data>
+      <data key="v_id">2007_Mar_102</data>
+      <data key="v_local_pagerank">0.00475695</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">3</data>
+      <data key="v_blob_pagerank">0.000363444</data>
+      <data key="v_label1">2007_Mar_103,2007_Mar_109,2007_Mar_117,2007_Mar_133,2007_Mar_172,2007_Mar_173</data>
+      <data key="v_label">Good resources on Web 2.0</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Mar/102</data>
+      <data key="v_filtered_betweenness">20112.8</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">20112.8</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n70">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.00016574</data>
+      <data key="v_original_pagerank">0.000146932</data>
+      <data key="v_original_enumeration">3807</data>
+      <data key="v_id">2008_Mar_127</data>
+      <data key="v_local_pagerank">0.00690812</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">0.000190111</data>
+      <data key="v_label1">2008_Mar_128,2008_Mar_128,2008_Mar_129,2008_Mar_129,2008_Mar_130,2008_Mar_130</data>
+      <data key="v_label">IE8 beta is available - Challenge</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2008/Mar/127</data>
+      <data key="v_filtered_betweenness">6527.15</data>
+      <data key="v_local_betweenness">232.662</data>
+      <data key="v_blob_betweenness">6527.15</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n71">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000315822</data>
+      <data key="v_original_pagerank">0.000264601</data>
+      <data key="v_original_enumeration">3862</data>
+      <data key="v_id">2008_Mar_188</data>
+      <data key="v_local_pagerank">0.00642641</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">1</data>
+      <data key="v_blob_pagerank">0.000362261</data>
+      <data key="v_label1">2008_Mar_196,2008_Mar_196,2008_Mar_217,2008_Mar_217,2008_Mar_218,2008_Mar_218,2008_Mar_219,2008_Mar_219,2008_Mar_221,2008_Mar_221,2008_Mar_223,2008_Mar_223,2008_Mar_226,2008_Mar_226,2008_Mar_229,2008_Mar_229</data>
+      <data key="v_label">Offensive Security Backtrack Training</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2008/Mar/188</data>
+      <data key="v_filtered_betweenness">21703.8</data>
+      <data key="v_local_betweenness">43.7849</data>
+      <data key="v_blob_betweenness">21703.8</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n72">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">6.35452e-05</data>
+      <data key="v_original_pagerank">8.76907e-05</data>
+      <data key="v_original_enumeration">3878</data>
+      <data key="v_id">2008_Mar_198</data>
+      <data key="v_local_pagerank">0.00430741</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">1</data>
+      <data key="v_blob_pagerank">7.2889e-05</data>
+      <data key="v_label1"></data>
+      <data key="v_label">securls.com</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2008/Mar/198</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n73">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000319973</data>
+      <data key="v_original_pagerank">0.000147669</data>
+      <data key="v_original_enumeration">3978</data>
+      <data key="v_id">2008_Mar_274</data>
+      <data key="v_local_pagerank">0.0135187</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">1</data>
+      <data key="v_blob_pagerank">0.000367023</data>
+      <data key="v_label1">2008_Mar_274,2008_Mar_274,2008_Mar_276,2008_Mar_276,2008_Mar_279,2008_Mar_279,2008_Mar_285,2008_Mar_285,2008_Mar_292,2008_Mar_292,2008_Mar_293,2008_Mar_293,2008_Mar_294,2008_Mar_294,2008_Mar_295,2008_Mar_295,2008_Mar_297,2008_Mar_297,2008_Mar_302,2008_Mar_302,2008_Mar_308,2008_Mar_308,2008_Mar_318,2008_Mar_318,2008_Mar_319,2008_Mar_319,2008_Mar_331,2008_Mar_331,2008_Mar_343,2008_Mar_343,2008_Mar_345,2008_Mar_345,2008_Mar_351,2008_Mar_351</data>
+      <data key="v_label">Re: agile hacking?</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2008/Mar/274</data>
+      <data key="v_filtered_betweenness">27944.8</data>
+      <data key="v_local_betweenness">308.806</data>
+      <data key="v_blob_betweenness">27944.8</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n74">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">6.35452e-05</data>
+      <data key="v_original_pagerank">8.76907e-05</data>
+      <data key="v_original_enumeration">3984</data>
+      <data key="v_id">2008_Mar_280</data>
+      <data key="v_local_pagerank">0.00430741</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">1</data>
+      <data key="v_blob_pagerank">7.2889e-05</data>
+      <data key="v_label1"></data>
+      <data key="v_label">Agile Hacking</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2008/Mar/280</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n75">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000219388</data>
+      <data key="v_original_pagerank">0.000116514</data>
+      <data key="v_original_enumeration">4021</data>
+      <data key="v_id">2008_Mar_310</data>
+      <data key="v_local_pagerank">0.0084351</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">1</data>
+      <data key="v_blob_pagerank">0.000251647</data>
+      <data key="v_label1">2008_Mar_310,2008_Mar_310,2008_Mar_311,2008_Mar_311,2008_Mar_312,2008_Mar_312,2008_Mar_313,2008_Mar_313,2008_Mar_314,2008_Mar_314,2008_Mar_316,2008_Mar_316,2008_Mar_317,2008_Mar_317,2008_Mar_320,2008_Mar_320,2008_Mar_322,2008_Mar_322,2008_Mar_324,2008_Mar_324,2008_Mar_325,2008_Mar_325</data>
+      <data key="v_label">Re: [full disclosure] agile hacking?</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2008/Mar/310</data>
+      <data key="v_filtered_betweenness">35633.4</data>
+      <data key="v_local_betweenness">116</data>
+      <data key="v_blob_betweenness">35633.4</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n76">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000104426</data>
+      <data key="v_original_pagerank">0.000117113</data>
+      <data key="v_original_enumeration">4058</data>
+      <data key="v_id">2008_Mar_344</data>
+      <data key="v_local_pagerank">0.00399489</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">1</data>
+      <data key="v_blob_pagerank">0.000119781</data>
+      <data key="v_label1">2008_Mar_346,2008_Mar_346</data>
+      <data key="v_label">Vonage denial of service through noise packet	injection.</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2008/Mar/344</data>
+      <data key="v_filtered_betweenness">4335.54</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">4335.54</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n77">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000186445</data>
+      <data key="v_original_pagerank">0.000102021</data>
+      <data key="v_original_enumeration">4080</data>
+      <data key="v_id">2007_Mar_361</data>
+      <data key="v_local_pagerank">0.00413936</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">0.00021386</data>
+      <data key="v_label1">2007_Mar_363,2007_Mar_365,2007_Mar_371,2007_Mar_375,2007_Mar_377,2007_Mar_379,2007_Mar_387,2007_Mar_426,2007_Mar_432,2007_Mar_435</data>
+      <data key="v_label">Chinese Professor Cracks Fifth Data Security	Algorithm (SHA-1)</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Mar/361</data>
+      <data key="v_filtered_betweenness">28934</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">28934</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n78">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000251321</data>
+      <data key="v_original_pagerank">0.000270196</data>
+      <data key="v_original_enumeration">4101</data>
+      <data key="v_id">2008_Mar_385</data>
+      <data key="v_local_pagerank">0.013715</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">1</data>
+      <data key="v_blob_pagerank">0.000288275</data>
+      <data key="v_label1">2008_Mar_386,2008_Mar_386,2008_Mar_387,2008_Mar_387,2008_Mar_392,2008_Mar_392,2008_Mar_395,2008_Mar_395,2008_Mar_396,2008_Mar_396,2008_Mar_398,2008_Mar_398,2008_Mar_405,2008_Mar_405,2008_Mar_407,2008_Mar_407,2008_Mar_409,2008_Mar_409</data>
+      <data key="v_label">OpenID. The future of authentication on the web?</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2008/Mar/385</data>
+      <data key="v_filtered_betweenness">20393.7</data>
+      <data key="v_local_betweenness">240.856</data>
+      <data key="v_blob_betweenness">20393.7</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n79">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000318347</data>
+      <data key="v_original_pagerank">0.000240219</data>
+      <data key="v_original_enumeration">4103</data>
+      <data key="v_id">2008_Mar_388</data>
+      <data key="v_local_pagerank">0.0216604</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">1</data>
+      <data key="v_blob_pagerank">0.000365158</data>
+      <data key="v_label1">2008_Mar_388,2008_Mar_388,2008_Mar_390,2008_Mar_390,2008_Mar_391,2008_Mar_391,2008_Mar_393,2008_Mar_393,2008_Mar_394,2008_Mar_394,2008_Mar_397,2008_Mar_397,2008_Mar_399,2008_Mar_399,2008_Mar_400,2008_Mar_400,2008_Mar_401,2008_Mar_401,2008_Mar_403,2008_Mar_403,2008_Mar_404,2008_Mar_404,2008_Mar_406,2008_Mar_406,2008_Mar_408,2008_Mar_408,2008_Mar_410,2008_Mar_410,2008_Mar_411,2008_Mar_411,2008_Mar_412,2008_Mar_412,2008_Mar_413,2008_Mar_413,2008_Mar_414,2008_Mar_414,2008_Mar_415,2008_Mar_415,2008_Mar_416,2008_Mar_416,2008_Mar_417,2008_Mar_417,2008_Mar_418,2008_Mar_418,2008_Mar_419,2008_Mar_419,2008_Mar_420,2008_Mar_420,2008_Mar_421,2008_Mar_421,2008_Mar_423,2008_Mar_423,2008_Mar_424,2008_Mar_424,2008_Mar_425,2008_Mar_425,2008_Mar_426,2008_Mar_426</data>
+      <data key="v_label">Re: OpenID. The future of authentication on the	web?</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2008/Mar/388</data>
+      <data key="v_filtered_betweenness">43281.8</data>
+      <data key="v_local_betweenness">1549.43</data>
+      <data key="v_blob_betweenness">43281.8</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n80">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">5.61972e-05</data>
+      <data key="v_original_pagerank">9.32341e-05</data>
+      <data key="v_original_enumeration">4147</data>
+      <data key="v_id">2008_Mar_447</data>
+      <data key="v_local_pagerank">0.00399489</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">1</data>
+      <data key="v_blob_pagerank">6.44605e-05</data>
+      <data key="v_label1">2008_Mar_447,2008_Mar_447</data>
+      <data key="v_label">Re: Static Injection into Commercial Lines - DoS	on Vonage - Current Status</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2008/Mar/447</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n81">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">5.46752e-05</data>
+      <data key="v_original_pagerank">8.62693e-05</data>
+      <data key="v_original_enumeration">4261</data>
+      <data key="v_id">2007_Mar_556</data>
+      <data key="v_local_pagerank">0.00414391</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">0</data>
+      <data key="v_blob_pagerank">6.27147e-05</data>
+      <data key="v_label1">2007_Mar_556</data>
+      <data key="v_label">Re: CA BrightStor ARCserve Backup	Mediasvr.exevulnerability</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Mar/556</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n82">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000846916</data>
+      <data key="v_original_pagerank">0.000507197</data>
+      <data key="v_original_enumeration">4265</data>
+      <data key="v_id">2007_Apr_2</data>
+      <data key="v_local_pagerank">0.00681559</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">0.000971448</data>
+      <data key="v_label1">2007_Mar_567,2007_Mar_569,2007_Apr_2,2007_Apr_8,2007_Apr_10,2007_Apr_12,2007_Apr_21,2007_Apr_22,2007_Apr_23,2007_Apr_25,2007_Apr_26,2007_Apr_27,2007_Apr_28,2007_Apr_30,2007_Apr_31,2007_Apr_38,2007_Apr_40,2007_Apr_41,2007_Apr_42,2007_Apr_43,2007_Apr_44,2007_Apr_45,2007_Apr_46,2007_Apr_47,2007_Apr_48,2007_Apr_49,2007_Apr_52,2007_Apr_59,2007_Apr_60,2007_Apr_61,2007_Apr_62,2007_Apr_64,2007_Apr_75,2007_Apr_76,2007_Apr_77,2007_Apr_78,2007_Apr_79,2007_Apr_87,2007_Apr_88,2007_Apr_89,2007_Apr_109,2007_Apr_110,2007_Apr_120,2007_Apr_126,2007_Apr_127,2007_Apr_128,2007_Apr_129,2007_Apr_130,2007_Apr_131,2007_Apr_156,2007_Apr_313,2007_Apr_316,2007_Apr_342,2007_Apr_353,2007_Apr_366</data>
+      <data key="v_label">Re: Windows .ANI LoadAniIcon Stack Overflow</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Apr/2</data>
+      <data key="v_filtered_betweenness">204128</data>
+      <data key="v_local_betweenness">333.544</data>
+      <data key="v_blob_betweenness">204128</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n83">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">5.46912e-05</data>
+      <data key="v_original_pagerank">8.50934e-05</data>
+      <data key="v_original_enumeration">4309</data>
+      <data key="v_id">2007_Apr_33</data>
+      <data key="v_local_pagerank">0.00394287</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">6.27331e-05</data>
+      <data key="v_label1"></data>
+      <data key="v_label">MS Patch Coming Tuesday</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Apr/33</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n84">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000199621</data>
+      <data key="v_original_pagerank">0.000185863</data>
+      <data key="v_original_enumeration">4337</data>
+      <data key="v_id">2008_Apr_71</data>
+      <data key="v_local_pagerank">0.00817912</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">0</data>
+      <data key="v_blob_pagerank">0.000228973</data>
+      <data key="v_label1">2008_Apr_72,2008_Apr_72,2008_Apr_75,2008_Apr_75,2008_Apr_76,2008_Apr_76,2008_Apr_147,2008_Apr_147</data>
+      <data key="v_label">RIP epic</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2008/Apr/71</data>
+      <data key="v_filtered_betweenness">11923.9</data>
+      <data key="v_local_betweenness">116</data>
+      <data key="v_blob_betweenness">11923.9</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n85">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">5.52912e-05</data>
+      <data key="v_original_pagerank">8.75356e-05</data>
+      <data key="v_original_enumeration">4782</data>
+      <data key="v_id">2008_Apr_587</data>
+      <data key="v_local_pagerank">0.00472323</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">6.34214e-05</data>
+      <data key="v_label1">2008_Apr_587,2008_Apr_587</data>
+      <data key="v_label">Re: [DoS] Firefox 3 beta 5 on Ubuntu 7.10 (hangs the OS)</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2008/Apr/587</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n86">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">5.46752e-05</data>
+      <data key="v_original_pagerank">8.82592e-05</data>
+      <data key="v_original_enumeration">4795</data>
+      <data key="v_id">2008_Apr_598</data>
+      <data key="v_local_pagerank">0.00414391</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">0</data>
+      <data key="v_blob_pagerank">6.27147e-05</data>
+      <data key="v_label1">2008_Apr_598,2008_Apr_598</data>
+      <data key="v_label">Re: Cross site scripting issues in	s9y(CVE-2008-1386, CVE-2008-1387)</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2008/Apr/598</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n87">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000522063</data>
+      <data key="v_original_pagerank">0.000435618</data>
+      <data key="v_original_enumeration">4950</data>
+      <data key="v_id">2007_May_4</data>
+      <data key="v_local_pagerank">0.0242504</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">3</data>
+      <data key="v_blob_pagerank">0.000598827</data>
+      <data key="v_label1">2007_May_5,2007_May_16,2007_May_17,2007_May_18,2007_May_19,2007_May_20,2007_May_21,2007_May_31,2007_May_53,2007_May_54,2007_May_55,2007_May_59,2007_May_60,2007_May_61,2007_May_64,2007_May_72,2007_May_73,2007_May_74,2007_May_75,2007_May_78,2007_May_79,2007_May_80,2007_May_85</data>
+      <data key="v_label">Month of ActiveX Bug</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/May/4</data>
+      <data key="v_filtered_betweenness">86009.1</data>
+      <data key="v_local_betweenness">817.417</data>
+      <data key="v_blob_betweenness">86009.1</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n88">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000182597</data>
+      <data key="v_original_pagerank">0.000103843</data>
+      <data key="v_original_enumeration">5189</data>
+      <data key="v_id">2007_May_258</data>
+      <data key="v_local_pagerank">0.00786439</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">0.000209446</data>
+      <data key="v_label1">2007_May_259,2007_May_260,2007_May_262,2007_May_271,2007_May_275</data>
+      <data key="v_label">Windows POC</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/May/258</data>
+      <data key="v_filtered_betweenness">13695.3</data>
+      <data key="v_local_betweenness">116</data>
+      <data key="v_blob_betweenness">13695.3</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n89">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.00026052</data>
+      <data key="v_original_pagerank">0.00011359</data>
+      <data key="v_original_enumeration">5375</data>
+      <data key="v_id">2007_May_447</data>
+      <data key="v_local_pagerank">0.00886218</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">3</data>
+      <data key="v_blob_pagerank">0.000298827</data>
+      <data key="v_label1">2007_May_448,2007_May_450,2007_May_451,2007_May_453,2007_May_454,2007_May_455,2007_May_468</data>
+      <data key="v_label">WordPress Community Vulnerable</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/May/447</data>
+      <data key="v_filtered_betweenness">51392.9</data>
+      <data key="v_local_betweenness">111.521</data>
+      <data key="v_blob_betweenness">51392.9</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n90">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000292688</data>
+      <data key="v_original_pagerank">0.000197879</data>
+      <data key="v_original_enumeration">5452</data>
+      <data key="v_id">2007_May_529</data>
+      <data key="v_local_pagerank">0.00817201</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">0.000335725</data>
+      <data key="v_label1">2007_May_533,2007_May_535,2007_May_536,2007_May_538,2007_May_540,2007_May_541,2007_May_543</data>
+      <data key="v_label">New Vulnerability against Firefox/ Major	Extensions</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/May/529</data>
+      <data key="v_filtered_betweenness">51434.9</data>
+      <data key="v_local_betweenness">116</data>
+      <data key="v_blob_betweenness">51434.9</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n91">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.00104384</data>
+      <data key="v_original_pagerank">0.000583295</data>
+      <data key="v_original_enumeration">5663</data>
+      <data key="v_id">2007_Jun_87</data>
+      <data key="v_local_pagerank">0.0506445</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">0.00119733</data>
+      <data key="v_label1">2007_Jun_88,2007_Jun_89,2007_Jun_90,2007_Jun_91,2007_Jun_92,2007_Jun_94,2007_Jun_95,2007_Jun_96,2007_Jun_97,2007_Jun_98,2007_Jun_99,2007_Jun_100,2007_Jun_101,2007_Jun_102,2007_Jun_104,2007_Jun_107,2007_Jun_108,2007_Jun_109,2007_Jun_110,2007_Jun_111,2007_Jun_112,2007_Jun_113,2007_Jun_114,2007_Jun_115,2007_Jun_117,2007_Jun_118,2007_Jun_122,2007_Jun_127,2007_Jun_128,2007_Jun_129,2007_Jun_130,2007_Jun_132,2007_Jun_135,2007_Jun_136,2007_Jun_137,2007_Jun_141,2007_Jun_142,2007_Jun_143,2007_Jun_145,2007_Jun_166,2007_Jun_169,2007_Jun_170,2007_Jun_171,2007_Jun_179,2007_Jun_182,2007_Jun_184,2007_Jun_185,2007_Jun_187,2007_Jun_188,2007_Jun_192,2007_Jun_193,2007_Jun_195,2007_Jun_205</data>
+      <data key="v_label">You shady bastards.</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Jun/87</data>
+      <data key="v_filtered_betweenness">576836</data>
+      <data key="v_local_betweenness">1958.76</data>
+      <data key="v_blob_betweenness">576836</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n92">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000135508</data>
+      <data key="v_original_pagerank">0.000110831</data>
+      <data key="v_original_enumeration">5701</data>
+      <data key="v_id">2007_Jun_131</data>
+      <data key="v_local_pagerank">0.00414391</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">0</data>
+      <data key="v_blob_pagerank">0.000155433</data>
+      <data key="v_label1">2007_Jun_149,2007_Jun_153</data>
+      <data key="v_label">Yahoo 0day ActiveX Webcam Exploit</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Jun/131</data>
+      <data key="v_filtered_betweenness">10064.7</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">10064.7</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n93">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000191237</data>
+      <data key="v_original_pagerank">0.000179955</data>
+      <data key="v_original_enumeration">5727</data>
+      <data key="v_id">2007_Jun_154</data>
+      <data key="v_local_pagerank">0.00720531</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">0</data>
+      <data key="v_blob_pagerank">0.000219357</data>
+      <data key="v_label1">2007_Jun_157,2007_Jun_158,2007_Jun_164,2007_Jun_168,2007_Jun_183</data>
+      <data key="v_label">0day Yahoo Webcam Exploits</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Jun/154</data>
+      <data key="v_filtered_betweenness">18728.7</data>
+      <data key="v_local_betweenness">6.87543</data>
+      <data key="v_blob_betweenness">18728.7</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n94">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">5.46912e-05</data>
+      <data key="v_original_pagerank">8.50934e-05</data>
+      <data key="v_original_enumeration">5741</data>
+      <data key="v_id">2007_Jun_167</data>
+      <data key="v_local_pagerank">0.00394287</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">6.27331e-05</data>
+      <data key="v_label1">2007_Jun_167</data>
+      <data key="v_label">Re: You shady bastards. - CONFIDENTIAL</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Jun/167</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n95">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000165138</data>
+      <data key="v_original_pagerank">0.000112952</data>
+      <data key="v_original_enumeration">5835</data>
+      <data key="v_id">2007_Jun_240</data>
+      <data key="v_local_pagerank">0.00690812</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">0.00018942</data>
+      <data key="v_label1">2007_Jun_241,2007_Jun_249,2007_Jun_256</data>
+      <data key="v_label">Safari for Windows,	0day URL protocol handler command injection</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Jun/240</data>
+      <data key="v_filtered_betweenness">4111.68</data>
+      <data key="v_local_betweenness">232.662</data>
+      <data key="v_blob_betweenness">4111.68</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n96">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000134573</data>
+      <data key="v_original_pagerank">0.000104072</data>
+      <data key="v_original_enumeration">6068</data>
+      <data key="v_id">2007_Jun_503</data>
+      <data key="v_local_pagerank">0.00394287</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">0.000154361</data>
+      <data key="v_label1">2007_Jun_503,2007_Jun_506,2007_Jun_507,2007_Jun_551</data>
+      <data key="v_label">Re: Apple Safari: idn urlbar spoofing</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Jun/503</data>
+      <data key="v_filtered_betweenness">11237</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">11237</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n97">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">5.46752e-05</data>
+      <data key="v_original_pagerank">8.62693e-05</data>
+      <data key="v_original_enumeration">6114</data>
+      <data key="v_id">2007_Jun_589</data>
+      <data key="v_local_pagerank">0.00414391</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">0</data>
+      <data key="v_blob_pagerank">6.27147e-05</data>
+      <data key="v_label1">2007_Jun_589</data>
+      <data key="v_label">Re: Persistent XSS and CSRF and on	networkappliance</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Jun/589</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n98">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000261124</data>
+      <data key="v_original_pagerank">0.000200859</data>
+      <data key="v_original_enumeration">6881</data>
+      <data key="v_id">2007_Aug_41</data>
+      <data key="v_local_pagerank">0.00657543</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">1</data>
+      <data key="v_blob_pagerank">0.000299521</data>
+      <data key="v_label1">2007_Aug_44,2007_Aug_45,2007_Aug_70,2007_Aug_76,2007_Aug_97,2007_Aug_113,2007_Aug_124</data>
+      <data key="v_label">intrusion kit</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Aug/41</data>
+      <data key="v_filtered_betweenness">13607.1</data>
+      <data key="v_local_betweenness">176.578</data>
+      <data key="v_blob_betweenness">13607.1</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n99">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000127851</data>
+      <data key="v_original_pagerank">9.17339e-05</data>
+      <data key="v_original_enumeration">6930</data>
+      <data key="v_id">2008_Aug_89</data>
+      <data key="v_local_pagerank">0.0045844</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">1</data>
+      <data key="v_blob_pagerank">0.000146651</data>
+      <data key="v_label1">2008_Aug_89,2008_Aug_101,2008_Aug_106,2008_Aug_108,2008_Aug_110,2008_Aug_122</data>
+      <data key="v_label">Re: [funsec] facebook messages worm</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2008/Aug/89</data>
+      <data key="v_filtered_betweenness">35967.3</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">35967.3</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n100">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">9.34532e-05</data>
+      <data key="v_original_pagerank">8.96639e-05</data>
+      <data key="v_original_enumeration">6993</data>
+      <data key="v_id">2007_Aug_147</data>
+      <data key="v_local_pagerank">0.00423643</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">1</data>
+      <data key="v_blob_pagerank">0.000107195</data>
+      <data key="v_label1">2007_Aug_147,2007_Aug_148</data>
+      <data key="v_label">Re: Xbox live accounts are being stolen (is	thetraining working?)</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Aug/147</data>
+      <data key="v_filtered_betweenness">1035.24</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">1035.24</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n101">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000197133</data>
+      <data key="v_original_pagerank">0.000135123</data>
+      <data key="v_original_enumeration">7222</data>
+      <data key="v_id">2008_Aug_341</data>
+      <data key="v_local_pagerank">0.0045844</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">1</data>
+      <data key="v_blob_pagerank">0.00022612</data>
+      <data key="v_label1">2008_Aug_341,2008_Aug_368,2008_Aug_369,2008_Aug_370,2008_Aug_371,2008_Aug_372</data>
+      <data key="v_label">Re: Linus summarizes state of the &quot;security	industry&quot; with precision and accuracy.</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2008/Aug/341</data>
+      <data key="v_filtered_betweenness">12596.4</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">12596.4</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n102">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000123701</data>
+      <data key="v_original_pagerank">0.000159897</data>
+      <data key="v_original_enumeration">7294</data>
+      <data key="v_id">2007_Aug_405</data>
+      <data key="v_local_pagerank">0.00423643</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">1</data>
+      <data key="v_blob_pagerank">0.00014189</data>
+      <data key="v_label1">2007_Aug_406</data>
+      <data key="v_label">Security Contact for FOX Sports</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Aug/405</data>
+      <data key="v_filtered_betweenness">5592</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">5592</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n103">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000121984</data>
+      <data key="v_original_pagerank">0.000106169</data>
+      <data key="v_original_enumeration">7399</data>
+      <data key="v_id">2007_Aug_475</data>
+      <data key="v_local_pagerank">0.00423643</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">1</data>
+      <data key="v_blob_pagerank">0.000139921</data>
+      <data key="v_label1">2007_Aug_483</data>
+      <data key="v_label">Security contact at gforge(http://gforge.org/)</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Aug/475</data>
+      <data key="v_filtered_betweenness">16770</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">16770</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n104">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000328665</data>
+      <data key="v_original_pagerank">0.000211304</data>
+      <data key="v_original_enumeration">7402</data>
+      <data key="v_id">2008_Aug_477</data>
+      <data key="v_local_pagerank">0.0045844</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">1</data>
+      <data key="v_blob_pagerank">0.000376992</data>
+      <data key="v_label1">2008_Aug_477,2008_Aug_483,2008_Aug_484,2008_Aug_485,2008_Aug_488,2008_Aug_489,2008_Aug_490,2008_Aug_492,2008_Aug_495</data>
+      <data key="v_label">Re: DIE IN A FIRE post</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2008/Aug/477</data>
+      <data key="v_filtered_betweenness">45219.9</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">45219.9</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n105">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">5.91436e-05</data>
+      <data key="v_original_pagerank">8.82592e-05</data>
+      <data key="v_original_enumeration">7570</data>
+      <data key="v_id">2007_Sep_109</data>
+      <data key="v_local_pagerank">0.00423643</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">1</data>
+      <data key="v_blob_pagerank">6.78401e-05</data>
+      <data key="v_label1">2007_Sep_109</data>
+      <data key="v_label">Re: Fake claim by Vaibhav Pandey regarding	Googleacknowledging a vulnerability</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Sep/109</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n106">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000137927</data>
+      <data key="v_original_pagerank">0.000160313</data>
+      <data key="v_original_enumeration">8040</data>
+      <data key="v_id">2007_Sep_614</data>
+      <data key="v_local_pagerank">0.00394287</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">0.000158209</data>
+      <data key="v_label1">2007_Sep_614,2007_Sep_615,2007_Sep_668</data>
+      <data key="v_label">Re: Firefox 2.0.0.7 has a very serious	calculation bug [FIB FOUND/CONFIRMED]</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Sep/614</data>
+      <data key="v_filtered_betweenness">5784.73</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">5784.73</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n107">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">5.52912e-05</data>
+      <data key="v_original_pagerank">8.59075e-05</data>
+      <data key="v_original_enumeration">8046</data>
+      <data key="v_id">2008_Sep_638</data>
+      <data key="v_local_pagerank">0.00472323</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">6.34214e-05</data>
+      <data key="v_label1">2008_Sep_638</data>
+      <data key="v_label">Re: THC releases video and tool to create fake ePassports</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2008/Sep/638</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n108">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">5.46752e-05</data>
+      <data key="v_original_pagerank">8.62693e-05</data>
+      <data key="v_original_enumeration">8184</data>
+      <data key="v_id">2007_Oct_140</data>
+      <data key="v_local_pagerank">0.00414391</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">0</data>
+      <data key="v_blob_pagerank">6.27147e-05</data>
+      <data key="v_label1">2007_Oct_140</data>
+      <data key="v_label">Re: are the NetBIOS-like hacking days over? -wide	open citrix services on critical domains</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Oct/140</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n109">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000692758</data>
+      <data key="v_original_pagerank">0.000466871</data>
+      <data key="v_original_enumeration">8259</data>
+      <data key="v_id">2007_Oct_237</data>
+      <data key="v_local_pagerank">0.00478509</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">0.000794622</data>
+      <data key="v_label1">2007_Oct_241,2007_Oct_259,2007_Oct_274,2007_Oct_275,2007_Oct_277,2007_Oct_278,2007_Oct_280,2007_Oct_281,2007_Oct_283,2007_Oct_289,2007_Oct_290,2007_Oct_291,2007_Oct_301,2007_Oct_305,2007_Oct_306,2007_Oct_308,2007_Oct_309,2007_Oct_316,2007_Oct_324,2007_Oct_383,2007_Oct_389,2007_Oct_398,2007_Oct_419,2007_Oct_420,2007_Oct_424</data>
+      <data key="v_label">Remote Desktop Command Fixation Attacks</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Oct/237</data>
+      <data key="v_filtered_betweenness">105624</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">105624</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n110">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">5.46912e-05</data>
+      <data key="v_original_pagerank">8.50934e-05</data>
+      <data key="v_original_enumeration">8758</data>
+      <data key="v_id">2007_Nov_92</data>
+      <data key="v_local_pagerank">0.00394287</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">6.27331e-05</data>
+      <data key="v_label1">2007_Nov_92</data>
+      <data key="v_label">Re: [funsec] eBay redirects: next step in fake	blogs and web searchabuse</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Nov/92</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n111">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000116123</data>
+      <data key="v_original_pagerank">9.35439e-05</data>
+      <data key="v_original_enumeration">8765</data>
+      <data key="v_id">2007_Nov_98</data>
+      <data key="v_local_pagerank">0.00414391</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">0</data>
+      <data key="v_blob_pagerank">0.000133198</data>
+      <data key="v_label1">2007_Nov_102,2007_Nov_106</data>
+      <data key="v_label">IDS logs showing outgoing packets on port 80</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Nov/98</data>
+      <data key="v_filtered_betweenness">2325.98</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">2325.98</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n112">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000164831</data>
+      <data key="v_original_pagerank">0.000165102</data>
+      <data key="v_original_enumeration">8925</data>
+      <data key="v_id">2007_Nov_284</data>
+      <data key="v_local_pagerank">0.0061905</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">1</data>
+      <data key="v_blob_pagerank">0.000189068</data>
+      <data key="v_label1">2007_Nov_286,2007_Nov_300,2007_Nov_302</data>
+      <data key="v_label">Port scanning question...SYN/FIN ... SYN/ACK</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Nov/284</data>
+      <data key="v_filtered_betweenness">7545.91</data>
+      <data key="v_local_betweenness">16.217</data>
+      <data key="v_blob_betweenness">7545.91</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n113">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">5.52912e-05</data>
+      <data key="v_original_pagerank">8.59075e-05</data>
+      <data key="v_original_enumeration">8963</data>
+      <data key="v_id">2008_Nov_323</data>
+      <data key="v_local_pagerank">0.00472323</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">6.34214e-05</data>
+      <data key="v_label1">2008_Nov_323</data>
+      <data key="v_label">Re: IP-Adresses of German Secret Intelligence Agency supposedly leaked</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2008/Nov/323</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n114">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000147382</data>
+      <data key="v_original_pagerank">9.7808e-05</data>
+      <data key="v_original_enumeration">9089</data>
+      <data key="v_id">2007_Nov_452</data>
+      <data key="v_local_pagerank">0.00414391</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">0</data>
+      <data key="v_blob_pagerank">0.000169054</data>
+      <data key="v_label1">2007_Nov_480,2007_Nov_482,2007_Nov_489</data>
+      <data key="v_label">RIPA powers being used</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Nov/452</data>
+      <data key="v_filtered_betweenness">4157.15</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">4157.15</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n115">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000282862</data>
+      <data key="v_original_pagerank">0.000119549</data>
+      <data key="v_original_enumeration">9172</data>
+      <data key="v_id">2007_Dec_288</data>
+      <data key="v_local_pagerank">0.00684438</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">0</data>
+      <data key="v_blob_pagerank">0.000324454</data>
+      <data key="v_label1">2007_Nov_549,2007_Nov_551,2007_Nov_554,2007_Nov_557,2007_Nov_558,2007_Dec_288,2007_Dec_299,2007_Dec_322,2007_Dec_358,2007_Dec_359,2007_Dec_360,2007_Dec_362,2007_Dec_363,2007_Dec_368,2007_Dec_376,2007_Dec_378,2007_Dec_391</data>
+      <data key="v_label">Re: Microsoft FTP Client Multiple Bufferoverflow	Vulnerability</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Dec/288</data>
+      <data key="v_filtered_betweenness">53318.4</data>
+      <data key="v_local_betweenness">23.6583</data>
+      <data key="v_blob_betweenness">53318.4</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n116">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">0.000289651</data>
+      <data key="v_original_pagerank">0.000101948</data>
+      <data key="v_original_enumeration">9251</data>
+      <data key="v_id">2007_Dec_4</data>
+      <data key="v_local_pagerank">0.00905868</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">0.000332242</data>
+      <data key="v_label1">2007_Dec_6,2007_Dec_13,2007_Dec_14,2007_Dec_15,2007_Dec_18,2007_Dec_22,2007_Dec_25,2007_Dec_26</data>
+      <data key="v_label">MD5 algorithm considered toxic (and harmful)</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Dec/4</data>
+      <data key="v_filtered_betweenness">65043.1</data>
+      <data key="v_local_betweenness">159.531</data>
+      <data key="v_blob_betweenness">65043.1</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <node id="n117">
+      <data key="v_color">#000000</data>
+      <data key="v_filtered_pagerank">5.65298e-05</data>
+      <data key="v_original_pagerank">8.67496e-05</data>
+      <data key="v_original_enumeration">9569</data>
+      <data key="v_id">2007_Dec_401</data>
+      <data key="v_local_pagerank">0.00413936</data>
+      <data key="v_nodetype">document</data>
+      <data key="v_blob_clustering">4</data>
+      <data key="v_local_clustering">2</data>
+      <data key="v_blob_pagerank">6.4842e-05</data>
+      <data key="v_label1">2007_Dec_401</data>
+      <data key="v_label">Re: [FDSA] Multiple Vulnerabilities in	Fred	Diggle Software Foundation Execve Exploit</data>
+      <data key="v_label2">http://seclists.org/fulldisclosure/2007/Dec/401</data>
+      <data key="v_filtered_betweenness">0</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_filtered_clustering">0</data>
+    </node>
+    <edge source="n0" target="n91">
+      <data key="e_source">Jay Sulzberger &lt;jays () panix com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Jun_87</data>
+    </edge>
+    <edge source="n1" target="n88">
+      <data key="e_source">str0ke &lt;str0ke () milw0rm com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_May_258</data>
+    </edge>
+    <edge source="n2" target="n56">
+      <data key="e_source">Larry Seltzer &lt;Larry () larryseltzer com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Jan_29</data>
+    </edge>
+    <edge source="n2" target="n57">
+      <data key="e_source">Larry Seltzer &lt;Larry () larryseltzer com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Jan_55</data>
+    </edge>
+    <edge source="n2" target="n58">
+      <data key="e_source">Larry Seltzer &lt;Larry () larryseltzer com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Jan_112</data>
+    </edge>
+    <edge source="n2" target="n60">
+      <data key="e_source">Larry Seltzer &lt;Larry () larryseltzer com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Jan_377</data>
+    </edge>
+    <edge source="n2" target="n61">
+      <data key="e_source">Larry Seltzer &lt;Larry () larryseltzer com&gt;</data>
+      <data key="e_weight">4</data>
+      <data key="e_target">2008_Jan_558</data>
+    </edge>
+    <edge source="n2" target="n62">
+      <data key="e_source">Larry Seltzer &lt;Larry () larryseltzer com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Feb_35</data>
+    </edge>
+    <edge source="n2" target="n65">
+      <data key="e_source">Larry Seltzer &lt;Larry () larryseltzer com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_37</data>
+    </edge>
+    <edge source="n2" target="n66">
+      <data key="e_source">Larry Seltzer &lt;Larry () larryseltzer com&gt;</data>
+      <data key="e_weight">18</data>
+      <data key="e_target">2008_Mar_58</data>
+    </edge>
+    <edge source="n2" target="n67">
+      <data key="e_source">Larry Seltzer &lt;Larry () larryseltzer com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_71</data>
+    </edge>
+    <edge source="n2" target="n70">
+      <data key="e_source">Larry Seltzer &lt;Larry () larryseltzer com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_127</data>
+    </edge>
+    <edge source="n2" target="n79">
+      <data key="e_source">Larry Seltzer &lt;Larry () larryseltzer com&gt;</data>
+      <data key="e_weight">8</data>
+      <data key="e_target">2008_Mar_388</data>
+    </edge>
+    <edge source="n2" target="n82">
+      <data key="e_source">Larry Seltzer &lt;Larry () larryseltzer com&gt;</data>
+      <data key="e_weight">14</data>
+      <data key="e_target">2007_Apr_2</data>
+    </edge>
+    <edge source="n2" target="n83">
+      <data key="e_source">Larry Seltzer &lt;Larry () larryseltzer com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Apr_33</data>
+    </edge>
+    <edge source="n2" target="n87">
+      <data key="e_source">Larry Seltzer &lt;Larry () larryseltzer com&gt;</data>
+      <data key="e_weight">8</data>
+      <data key="e_target">2007_May_4</data>
+    </edge>
+    <edge source="n2" target="n88">
+      <data key="e_source">Larry Seltzer &lt;Larry () larryseltzer com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2007_May_258</data>
+    </edge>
+    <edge source="n2" target="n89">
+      <data key="e_source">Larry Seltzer &lt;Larry () larryseltzer com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_May_447</data>
+    </edge>
+    <edge source="n2" target="n91">
+      <data key="e_source">Larry Seltzer &lt;Larry () larryseltzer com&gt;</data>
+      <data key="e_weight">4</data>
+      <data key="e_target">2007_Jun_87</data>
+    </edge>
+    <edge source="n2" target="n94">
+      <data key="e_source">Larry Seltzer &lt;Larry () larryseltzer com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Jun_167</data>
+    </edge>
+    <edge source="n2" target="n95">
+      <data key="e_source">Larry Seltzer &lt;Larry () larryseltzer com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Jun_240</data>
+    </edge>
+    <edge source="n2" target="n96">
+      <data key="e_source">Larry Seltzer &lt;Larry () larryseltzer com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Jun_503</data>
+    </edge>
+    <edge source="n2" target="n106">
+      <data key="e_source">Larry Seltzer &lt;Larry () larryseltzer com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Sep_614</data>
+    </edge>
+    <edge source="n2" target="n110">
+      <data key="e_source">Larry Seltzer &lt;Larry () larryseltzer com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Nov_92</data>
+    </edge>
+    <edge source="n3" target="n61">
+      <data key="e_source">Peter Dawson &lt;slash.pd () gmail com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Jan_558</data>
+    </edge>
+    <edge source="n3" target="n67">
+      <data key="e_source">Peter Dawson &lt;slash.pd () gmail com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_71</data>
+    </edge>
+    <edge source="n3" target="n91">
+      <data key="e_source">Peter Dawson &lt;slash.pd () gmail com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Jun_87</data>
+    </edge>
+    <edge source="n3" target="n115">
+      <data key="e_source">Peter Dawson &lt;slash.pd () gmail com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Dec_288</data>
+    </edge>
+    <edge source="n4" target="n66">
+      <data key="e_source">Tonnerre Lombard &lt;tonnerre.lombard () sygroup ch&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_58</data>
+    </edge>
+    <edge source="n4" target="n85">
+      <data key="e_source">Tonnerre Lombard &lt;tonnerre.lombard () sygroup ch&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Apr_587</data>
+    </edge>
+    <edge source="n4" target="n107">
+      <data key="e_source">Tonnerre Lombard &lt;tonnerre.lombard () sygroup ch&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2008_Sep_638</data>
+    </edge>
+    <edge source="n4" target="n113">
+      <data key="e_source">Tonnerre Lombard &lt;tonnerre.lombard () sygroup ch&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2008_Nov_323</data>
+    </edge>
+    <edge source="n5" target="n59">
+      <data key="e_source">bugtraq () cgisecurity net</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Jan_247</data>
+    </edge>
+    <edge source="n5" target="n69">
+      <data key="e_source">bugtraq () cgisecurity net</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Mar_102</data>
+    </edge>
+    <edge source="n5" target="n87">
+      <data key="e_source">bugtraq () cgisecurity net</data>
+      <data key="e_weight">3</data>
+      <data key="e_target">2007_May_4</data>
+    </edge>
+    <edge source="n6" target="n61">
+      <data key="e_source">Paul Schmehl &lt;pauls () utdallas edu&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Jan_558</data>
+    </edge>
+    <edge source="n6" target="n71">
+      <data key="e_source">Paul Schmehl &lt;pauls () utdallas edu&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_188</data>
+    </edge>
+    <edge source="n6" target="n78">
+      <data key="e_source">Paul Schmehl &lt;pauls () utdallas edu&gt;</data>
+      <data key="e_weight">10</data>
+      <data key="e_target">2008_Mar_385</data>
+    </edge>
+    <edge source="n6" target="n79">
+      <data key="e_source">Paul Schmehl &lt;pauls () utdallas edu&gt;</data>
+      <data key="e_weight">4</data>
+      <data key="e_target">2008_Mar_388</data>
+    </edge>
+    <edge source="n6" target="n89">
+      <data key="e_source">Paul Schmehl &lt;pauls () utdallas edu&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_May_447</data>
+    </edge>
+    <edge source="n6" target="n98">
+      <data key="e_source">Paul Schmehl &lt;pauls () utdallas edu&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Aug_41</data>
+    </edge>
+    <edge source="n6" target="n112">
+      <data key="e_source">Paul Schmehl &lt;pauls () utdallas edu&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Nov_284</data>
+    </edge>
+    <edge source="n6" target="n116">
+      <data key="e_source">Paul Schmehl &lt;pauls () utdallas edu&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Dec_4</data>
+    </edge>
+    <edge source="n7" target="n61">
+      <data key="e_source">Ed Carp &lt;erc () pobox com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Jan_558</data>
+    </edge>
+    <edge source="n8" target="n91">
+      <data key="e_source">security curmudgeon &lt;jericho () attrition org&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2007_Jun_87</data>
+    </edge>
+    <edge source="n9" target="n61">
+      <data key="e_source">Bill Stout &lt;billbrietstout () yahoo com&gt;</data>
+      <data key="e_weight">4</data>
+      <data key="e_target">2008_Jan_558</data>
+    </edge>
+    <edge source="n10" target="n61">
+      <data key="e_source">dxp &lt;dxp2532 () gmail com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Jan_558</data>
+    </edge>
+    <edge source="n11" target="n91">
+      <data key="e_source">Randall M &lt;randallm () fidmail com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Jun_87</data>
+    </edge>
+    <edge source="n12" target="n61">
+      <data key="e_source">Linval Thompson &lt;xstasi () gmail com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Jan_558</data>
+    </edge>
+    <edge source="n13" target="n61">
+      <data key="e_source">mgk.mailing &lt;mgk.mailing () googlemail com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Jan_558</data>
+    </edge>
+    <edge source="n14" target="n61">
+      <data key="e_source">Tyler Reguly &lt;ht () computerdefense org&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Jan_558</data>
+    </edge>
+    <edge source="n15" target="n91">
+      <data key="e_source">evilrabbi &lt;evilrabbi () gmail com&gt;</data>
+      <data key="e_weight">3</data>
+      <data key="e_target">2007_Jun_87</data>
+    </edge>
+    <edge source="n15" target="n93">
+      <data key="e_source">evilrabbi &lt;evilrabbi () gmail com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2007_Jun_154</data>
+    </edge>
+    <edge source="n16" target="n91">
+      <data key="e_source">matthew wollenweber &lt;mwollenweber () gmail com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Jun_87</data>
+    </edge>
+    <edge source="n17" target="n70">
+      <data key="e_source">Jay &lt;jay.tomas () infosecguru com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_127</data>
+    </edge>
+    <edge source="n17" target="n73">
+      <data key="e_source">Jay &lt;jay.tomas () infosecguru com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_274</data>
+    </edge>
+    <edge source="n17" target="n95">
+      <data key="e_source">Jay &lt;jay.tomas () infosecguru com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Jun_240</data>
+    </edge>
+    <edge source="n17" target="n100">
+      <data key="e_source">Jay &lt;jay.tomas () infosecguru com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Aug_147</data>
+    </edge>
+    <edge source="n17" target="n102">
+      <data key="e_source">Jay &lt;jay.tomas () infosecguru com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Aug_405</data>
+    </edge>
+    <edge source="n17" target="n103">
+      <data key="e_source">Jay &lt;jay.tomas () infosecguru com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Aug_475</data>
+    </edge>
+    <edge source="n17" target="n105">
+      <data key="e_source">Jay &lt;jay.tomas () infosecguru com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Sep_109</data>
+    </edge>
+    <edge source="n18" target="n68">
+      <data key="e_source">Roger A. Grimes &lt;roger () banneretcs com&gt;</data>
+      <data key="e_weight">6</data>
+      <data key="e_target">2007_Mar_98</data>
+    </edge>
+    <edge source="n19" target="n63">
+      <data key="e_source">Petko D. Petkov &lt;pdp.gnucitizen () googlemail com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_3</data>
+    </edge>
+    <edge source="n19" target="n64">
+      <data key="e_source">Petko D. Petkov &lt;pdp.gnucitizen () googlemail com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_31</data>
+    </edge>
+    <edge source="n19" target="n72">
+      <data key="e_source">Petko D. Petkov &lt;pdp.gnucitizen () googlemail com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_198</data>
+    </edge>
+    <edge source="n19" target="n73">
+      <data key="e_source">Petko D. Petkov &lt;pdp.gnucitizen () googlemail com&gt;</data>
+      <data key="e_weight">8</data>
+      <data key="e_target">2008_Mar_274</data>
+    </edge>
+    <edge source="n19" target="n74">
+      <data key="e_source">Petko D. Petkov &lt;pdp.gnucitizen () googlemail com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_280</data>
+    </edge>
+    <edge source="n19" target="n75">
+      <data key="e_source">Petko D. Petkov &lt;pdp.gnucitizen () googlemail com&gt;</data>
+      <data key="e_weight">4</data>
+      <data key="e_target">2008_Mar_310</data>
+    </edge>
+    <edge source="n19" target="n79">
+      <data key="e_source">Petko D. Petkov &lt;pdp.gnucitizen () googlemail com&gt;</data>
+      <data key="e_weight">22</data>
+      <data key="e_target">2008_Mar_388</data>
+    </edge>
+    <edge source="n20" target="n75">
+      <data key="e_source">Michael Krymson &lt;krymson () gmail com&gt;</data>
+      <data key="e_weight">4</data>
+      <data key="e_target">2008_Mar_310</data>
+    </edge>
+    <edge source="n21" target="n65">
+      <data key="e_source">jipe foo &lt;foojipe () gmail com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_37</data>
+    </edge>
+    <edge source="n22" target="n65">
+      <data key="e_source">Steven Adair &lt;steven () securityzone org&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_37</data>
+    </edge>
+    <edge source="n22" target="n87">
+      <data key="e_source">Steven Adair &lt;steven () securityzone org&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_May_4</data>
+    </edge>
+    <edge source="n22" target="n89">
+      <data key="e_source">Steven Adair &lt;steven () securityzone org&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2007_May_447</data>
+    </edge>
+    <edge source="n22" target="n112">
+      <data key="e_source">Steven Adair &lt;steven () securityzone org&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Nov_284</data>
+    </edge>
+    <edge source="n22" target="n116">
+      <data key="e_source">Steven Adair &lt;steven () securityzone org&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Dec_4</data>
+    </edge>
+    <edge source="n23" target="n65">
+      <data key="e_source">Eric Rachner &lt;eric () rachner us&gt;</data>
+      <data key="e_weight">4</data>
+      <data key="e_target">2008_Mar_37</data>
+    </edge>
+    <edge source="n23" target="n66">
+      <data key="e_source">Eric Rachner &lt;eric () rachner us&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_58</data>
+    </edge>
+    <edge source="n24" target="n66">
+      <data key="e_source">Bernhard Mueller &lt;research () sec-consult com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_58</data>
+    </edge>
+    <edge source="n25" target="n66">
+      <data key="e_source">TheM . &lt;them.root () gmail com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_58</data>
+    </edge>
+    <edge source="n26" target="n66">
+      <data key="e_source">Peter Watkins &lt;peterw () usa net&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_58</data>
+    </edge>
+    <edge source="n27" target="n66">
+      <data key="e_source">Daniel O&apos;Connor &lt;doconnor () gsoft com au&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_58</data>
+    </edge>
+    <edge source="n28" target="n66">
+      <data key="e_source">Tim &lt;tim-security () sentinelchicken org&gt;</data>
+      <data key="e_weight">14</data>
+      <data key="e_target">2008_Mar_58</data>
+    </edge>
+    <edge source="n28" target="n68">
+      <data key="e_source">Tim &lt;tim-security () sentinelchicken org&gt;</data>
+      <data key="e_weight">3</data>
+      <data key="e_target">2007_Mar_98</data>
+    </edge>
+    <edge source="n28" target="n77">
+      <data key="e_source">Tim &lt;tim-security () sentinelchicken org&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Mar_361</data>
+    </edge>
+    <edge source="n28" target="n90">
+      <data key="e_source">Tim &lt;tim-security () sentinelchicken org&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_May_529</data>
+    </edge>
+    <edge source="n28" target="n91">
+      <data key="e_source">Tim &lt;tim-security () sentinelchicken org&gt;</data>
+      <data key="e_weight">5</data>
+      <data key="e_target">2007_Jun_87</data>
+    </edge>
+    <edge source="n28" target="n116">
+      <data key="e_source">Tim &lt;tim-security () sentinelchicken org&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Dec_4</data>
+    </edge>
+    <edge source="n28" target="n117">
+      <data key="e_source">Tim &lt;tim-security () sentinelchicken org&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Dec_401</data>
+    </edge>
+    <edge source="n29" target="n66">
+      <data key="e_source">Thor (Hammer of God) &lt;thor () hammerofgod com&gt;</data>
+      <data key="e_weight">8</data>
+      <data key="e_target">2008_Mar_58</data>
+    </edge>
+    <edge source="n29" target="n109">
+      <data key="e_source">Thor (Hammer of God) &lt;thor () hammerofgod com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2007_Oct_237</data>
+    </edge>
+    <edge source="n30" target="n66">
+      <data key="e_source">Bryon Roche &lt;kain () kain org&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_58</data>
+    </edge>
+    <edge source="n31" target="n66">
+      <data key="e_source">echo6 &lt;echo6_uk () yahoo com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_58</data>
+    </edge>
+    <edge source="n32" target="n66">
+      <data key="e_source">Erik Trulsson &lt;ertr1013 () student uu se&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_58</data>
+    </edge>
+    <edge source="n33" target="n66">
+      <data key="e_source">Stefan Kanthak &lt;stefan.kanthak () nexgo de&gt;</data>
+      <data key="e_weight">4</data>
+      <data key="e_target">2008_Mar_58</data>
+    </edge>
+    <edge source="n34" target="n66">
+      <data key="e_source">Jardel Weyrich &lt;w.jardel () gmail com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_58</data>
+    </edge>
+    <edge source="n35" target="n66">
+      <data key="e_source">Kern &lt;timetrap () gmail com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_58</data>
+    </edge>
+    <edge source="n35" target="n71">
+      <data key="e_source">Kern &lt;timetrap () gmail com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_188</data>
+    </edge>
+    <edge source="n35" target="n73">
+      <data key="e_source">Kern &lt;timetrap () gmail com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_274</data>
+    </edge>
+    <edge source="n35" target="n76">
+      <data key="e_source">Kern &lt;timetrap () gmail com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_344</data>
+    </edge>
+    <edge source="n35" target="n79">
+      <data key="e_source">Kern &lt;timetrap () gmail com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_388</data>
+    </edge>
+    <edge source="n35" target="n80">
+      <data key="e_source">Kern &lt;timetrap () gmail com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_447</data>
+    </edge>
+    <edge source="n36" target="n66">
+      <data key="e_source">FD &lt;fd () cms ac&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_58</data>
+    </edge>
+    <edge source="n37" target="n73">
+      <data key="e_source">Fionnbharr &lt;thouth () gmail com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_274</data>
+    </edge>
+    <edge source="n38" target="n78">
+      <data key="e_source">Steven Rakick &lt;stevenrakick () yahoo com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_385</data>
+    </edge>
+    <edge source="n38" target="n79">
+      <data key="e_source">Steven Rakick &lt;stevenrakick () yahoo com&gt;</data>
+      <data key="e_weight">6</data>
+      <data key="e_target">2008_Mar_388</data>
+    </edge>
+    <edge source="n39" target="n79">
+      <data key="e_source">Kurt Buff &lt;kurt.buff () gmail com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_388</data>
+    </edge>
+    <edge source="n40" target="n78">
+      <data key="e_source">Gorn &lt;gorn () xs4all nl&gt;</data>
+      <data key="e_weight">4</data>
+      <data key="e_target">2008_Mar_385</data>
+    </edge>
+    <edge source="n41" target="n78">
+      <data key="e_source">Pedro Hugo &lt;fractalg () highspeedweb net&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Mar_385</data>
+    </edge>
+    <edge source="n42" target="n79">
+      <data key="e_source">John C. A. Bambenek, GCIH, CISSP &lt;bambenek.infosec () gmail com&gt;</data>
+      <data key="e_weight">10</data>
+      <data key="e_target">2008_Mar_388</data>
+    </edge>
+    <edge source="n42" target="n99">
+      <data key="e_source">John C. A. Bambenek, GCIH, CISSP &lt;bambenek.infosec () gmail com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2008_Aug_89</data>
+    </edge>
+    <edge source="n42" target="n101">
+      <data key="e_source">John C. A. Bambenek, GCIH, CISSP &lt;bambenek.infosec () gmail com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2008_Aug_341</data>
+    </edge>
+    <edge source="n42" target="n104">
+      <data key="e_source">John C. A. Bambenek, GCIH, CISSP &lt;bambenek.infosec () gmail com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2008_Aug_477</data>
+    </edge>
+    <edge source="n43" target="n81">
+      <data key="e_source">Morning Wood &lt;se_cur_ity () hotmail com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Mar_556</data>
+    </edge>
+    <edge source="n43" target="n82">
+      <data key="e_source">Morning Wood &lt;se_cur_ity () hotmail com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Apr_2</data>
+    </edge>
+    <edge source="n43" target="n84">
+      <data key="e_source">Morning Wood &lt;se_cur_ity () hotmail com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Apr_71</data>
+    </edge>
+    <edge source="n43" target="n86">
+      <data key="e_source">Morning Wood &lt;se_cur_ity () hotmail com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Apr_598</data>
+    </edge>
+    <edge source="n43" target="n91">
+      <data key="e_source">Morning Wood &lt;se_cur_ity () hotmail com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Jun_87</data>
+    </edge>
+    <edge source="n43" target="n92">
+      <data key="e_source">Morning Wood &lt;se_cur_ity () hotmail com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Jun_131</data>
+    </edge>
+    <edge source="n43" target="n93">
+      <data key="e_source">Morning Wood &lt;se_cur_ity () hotmail com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2007_Jun_154</data>
+    </edge>
+    <edge source="n43" target="n97">
+      <data key="e_source">Morning Wood &lt;se_cur_ity () hotmail com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Jun_589</data>
+    </edge>
+    <edge source="n43" target="n98">
+      <data key="e_source">Morning Wood &lt;se_cur_ity () hotmail com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Aug_41</data>
+    </edge>
+    <edge source="n43" target="n108">
+      <data key="e_source">Morning Wood &lt;se_cur_ity () hotmail com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Oct_140</data>
+    </edge>
+    <edge source="n43" target="n111">
+      <data key="e_source">Morning Wood &lt;se_cur_ity () hotmail com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Nov_98</data>
+    </edge>
+    <edge source="n43" target="n114">
+      <data key="e_source">Morning Wood &lt;se_cur_ity () hotmail com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Nov_452</data>
+    </edge>
+    <edge source="n43" target="n115">
+      <data key="e_source">Morning Wood &lt;se_cur_ity () hotmail com&gt;</data>
+      <data key="e_weight">4</data>
+      <data key="e_target">2007_Dec_288</data>
+    </edge>
+    <edge source="n44" target="n84">
+      <data key="e_source">Damien Lawless &lt;securecode () gmail com&gt;</data>
+      <data key="e_weight">2</data>
+      <data key="e_target">2008_Apr_71</data>
+    </edge>
+    <edge source="n45" target="n87">
+      <data key="e_source">xxx xxx &lt;kaharas () gmail com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_May_4</data>
+    </edge>
+    <edge source="n46" target="n87">
+      <data key="e_source">Alex Kirk &lt;alex.kirk () sourcefire com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_May_4</data>
+    </edge>
+    <edge source="n47" target="n87">
+      <data key="e_source">teo &lt;teOok () tele2 it&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_May_4</data>
+    </edge>
+    <edge source="n48" target="n87">
+      <data key="e_source">Goetz Von Berlichingen &lt;goetzvonberlichingen () comcast net&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_May_4</data>
+    </edge>
+    <edge source="n49" target="n90">
+      <data key="e_source">Christopher Soghoian &lt;csoghoian () gmail com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_May_529</data>
+    </edge>
+    <edge source="n50" target="n91">
+      <data key="e_source">John Lowry &lt;jlowry () bbn com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Jun_87</data>
+    </edge>
+    <edge source="n51" target="n91">
+      <data key="e_source">Brian Anderson &lt;brian.anderson () mail darton edu&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Jun_87</data>
+    </edge>
+    <edge source="n52" target="n91">
+      <data key="e_source">Brian Anderson &lt;bla () darton edu&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Jun_87</data>
+    </edge>
+    <edge source="n53" target="n91">
+      <data key="e_source">&lt;rlogin () hush ai&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Jun_87</data>
+    </edge>
+    <edge source="n54" target="n91">
+      <data key="e_source">Aberration State &lt;sdufresno () cyber-rights net&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Jun_87</data>
+    </edge>
+    <edge source="n55" target="n91">
+      <data key="e_source">Forest Lobster &lt;forestlobster () gmail com&gt;</data>
+      <data key="e_weight">1</data>
+      <data key="e_target">2007_Jun_87</data>
+    </edge>
+  </graph>
+</graphml>

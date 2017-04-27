@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="g_name" for="graph" attr.name="name" attr.type="string"/>
+  <key id="v_blob_cluster" for="node" attr.name="blob_cluster" attr.type="double"/>
+  <key id="v_label" for="node" attr.name="label" attr.type="string"/>
+  <key id="v_Label2" for="node" attr.name="Label2" attr.type="string"/>
+  <key id="v_blob_betweenness" for="node" attr.name="blob_betweenness" attr.type="double"/>
+  <key id="v_local_cluster" for="node" attr.name="local_cluster" attr.type="double"/>
+  <key id="v_Label1" for="node" attr.name="Label1" attr.type="string"/>
+  <key id="v_color" for="node" attr.name="color" attr.type="string"/>
+  <key id="v_id" for="node" attr.name="id" attr.type="string"/>
+  <key id="v_blob_pagerank" for="node" attr.name="blob_pagerank" attr.type="double"/>
+  <key id="v_nodeType" for="node" attr.name="nodeType" attr.type="string"/>
+  <key id="v_local_betweenness" for="node" attr.name="local_betweenness" attr.type="double"/>
+  <key id="v_local_pagerank" for="node" attr.name="local_pagerank" attr.type="double"/>
+  <key id="e_Edge Label" for="edge" attr.name="Edge Label" attr.type="string"/>
+  <key id="e_id" for="edge" attr.name="id" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <data key="g_name">2008 blob subgraph 4 of 6</data>
+    <node id="n0">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">K F (lists) &lt;kf_lists () digitalmunition com&gt;</data>
+      <data key="v_Label2">NA</data>
+      <data key="v_blob_betweenness">21693</data>
+      <data key="v_local_cluster">0</data>
+      <data key="v_Label1">NA</data>
+      <data key="v_color">#FF0000</data>
+      <data key="v_id">K F (lists) &lt;kf_lists () digitalmunition com&gt;</data>
+      <data key="v_blob_pagerank">0.00112303</data>
+      <data key="v_nodeType">author</data>
+      <data key="v_local_betweenness">21</data>
+      <data key="v_local_pagerank">0.259983</data>
+    </node>
+    <node id="n1">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">Blue Boar &lt;BlueBoar () thievco com&gt;</data>
+      <data key="v_Label2">NA</data>
+      <data key="v_blob_betweenness">15337.5</data>
+      <data key="v_local_cluster">1</data>
+      <data key="v_Label1">NA</data>
+      <data key="v_color">#FF0000</data>
+      <data key="v_id">Blue Boar &lt;BlueBoar () thievco com&gt;</data>
+      <data key="v_blob_pagerank">0.000655004</data>
+      <data key="v_nodeType">author</data>
+      <data key="v_local_betweenness">1</data>
+      <data key="v_local_pagerank">0.101001</data>
+    </node>
+    <node id="n2">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">Mark Sec &lt;mark.sec () gmail com&gt;</data>
+      <data key="v_Label2">NA</data>
+      <data key="v_blob_betweenness">4626.54</data>
+      <data key="v_local_cluster">2</data>
+      <data key="v_Label1">NA</data>
+      <data key="v_color">#FF0000</data>
+      <data key="v_id">Mark Sec &lt;mark.sec () gmail com&gt;</data>
+      <data key="v_blob_pagerank">0.000570788</data>
+      <data key="v_nodeType">author</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.0103806</data>
+    </node>
+    <node id="n3">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">C Q &lt;kyle.c.quest () gmail com&gt;</data>
+      <data key="v_Label2">NA</data>
+      <data key="v_blob_betweenness">3175.53</data>
+      <data key="v_local_cluster">3</data>
+      <data key="v_Label1">NA</data>
+      <data key="v_color">#FF0000</data>
+      <data key="v_id">C Q &lt;kyle.c.quest () gmail com&gt;</data>
+      <data key="v_blob_pagerank">0.000328687</data>
+      <data key="v_nodeType">author</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.0103806</data>
+    </node>
+    <node id="n4">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">Pete Simpson &lt;Pete.Simpson () clearswift com&gt;</data>
+      <data key="v_Label2">NA</data>
+      <data key="v_blob_betweenness">3148</data>
+      <data key="v_local_cluster">4</data>
+      <data key="v_Label1">NA</data>
+      <data key="v_color">#FF0000</data>
+      <data key="v_id">Pete Simpson &lt;Pete.Simpson () clearswift com&gt;</data>
+      <data key="v_blob_pagerank">0.000255065</data>
+      <data key="v_nodeType">author</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.0103806</data>
+    </node>
+    <node id="n5">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">James C. Slora Jr. &lt;james.slora () phra com&gt;</data>
+      <data key="v_Label2">NA</data>
+      <data key="v_blob_betweenness">2475.65</data>
+      <data key="v_local_cluster">5</data>
+      <data key="v_Label1">NA</data>
+      <data key="v_color">#FF0000</data>
+      <data key="v_id">James C. Slora Jr. &lt;james.slora () phra com&gt;</data>
+      <data key="v_blob_pagerank">0.000238362</data>
+      <data key="v_nodeType">author</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.0103806</data>
+    </node>
+    <node id="n6">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">Obscure &lt;lists () obscure ws&gt;</data>
+      <data key="v_Label2">NA</data>
+      <data key="v_blob_betweenness">3148</data>
+      <data key="v_local_cluster">6</data>
+      <data key="v_Label1">NA</data>
+      <data key="v_color">#FF0000</data>
+      <data key="v_id">Obscure &lt;lists () obscure ws&gt;</data>
+      <data key="v_blob_pagerank">0.000255065</data>
+      <data key="v_nodeType">author</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.0103806</data>
+    </node>
+    <node id="n7">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">blackhat4lyf3 blackhat4lyf3 &lt;blackhat4lyf3 () gmail com&gt;</data>
+      <data key="v_Label2">NA</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_local_cluster">7</data>
+      <data key="v_Label1">NA</data>
+      <data key="v_color">#FF0000</data>
+      <data key="v_id">blackhat4lyf3 blackhat4lyf3 &lt;blackhat4lyf3 () gmail com&gt;</data>
+      <data key="v_blob_pagerank">0.00015327</data>
+      <data key="v_nodeType">author</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.0103806</data>
+    </node>
+    <node id="n8">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">Welcome to Pwndertino...</data>
+      <data key="v_Label2">http://seclists.org/fulldisclosure/2007/Jan/13</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_local_cluster">0</data>
+      <data key="v_Label1"></data>
+      <data key="v_color">#000000</data>
+      <data key="v_id">2007_Jan_13</data>
+      <data key="v_blob_pagerank">0.000143076</data>
+      <data key="v_nodeType">document</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.04195</data>
+    </node>
+    <node id="n9">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">Whos Johny Pwnerseed?</data>
+      <data key="v_Label2">http://seclists.org/fulldisclosure/2007/Jan/43</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_local_cluster">0</data>
+      <data key="v_Label1"></data>
+      <data key="v_color">#000000</data>
+      <data key="v_id">2007_Jan_43</data>
+      <data key="v_blob_pagerank">0.000143076</data>
+      <data key="v_nodeType">document</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.04195</data>
+    </node>
+    <node id="n10">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">DMA[2007-0104a] - &apos;iLife iPhoto Photocasing	Format String Vulnerability&apos;</data>
+      <data key="v_Label2">http://seclists.org/fulldisclosure/2007/Jan/100</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_local_cluster">0</data>
+      <data key="v_Label1"></data>
+      <data key="v_color">#000000</data>
+      <data key="v_id">2007_Jan_100</data>
+      <data key="v_blob_pagerank">0.000143076</data>
+      <data key="v_nodeType">document</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.04195</data>
+    </node>
+    <node id="n11">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">Flaaaaaaaaaaaaaaaaavor Flav! (todays MOAB)</data>
+      <data key="v_Label2">http://seclists.org/fulldisclosure/2007/Jan/140</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_local_cluster">0</data>
+      <data key="v_Label1"></data>
+      <data key="v_color">#000000</data>
+      <data key="v_id">2007_Jan_140</data>
+      <data key="v_blob_pagerank">0.000143076</data>
+      <data key="v_nodeType">document</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.04195</data>
+    </node>
+    <node id="n12">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">DMA[2007-0107a] OmniWeb Javascript Alert Format String Vulnerabiity and DMA[2007-0109a] Apple Finder Disk Image Volume Label Overflow / DoS</data>
+      <data key="v_Label2">http://seclists.org/fulldisclosure/2007/Jan/209</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_local_cluster">0</data>
+      <data key="v_Label1"></data>
+      <data key="v_color">#000000</data>
+      <data key="v_id">2007_Jan_209</data>
+      <data key="v_blob_pagerank">0.000143076</data>
+      <data key="v_nodeType">document</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.04195</data>
+    </node>
+    <node id="n13">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">Remove all admin-&gt;root authorization prompts from	OSX</data>
+      <data key="v_Label2">http://seclists.org/fulldisclosure/2007/Jan/489</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_local_cluster">0</data>
+      <data key="v_Label1"></data>
+      <data key="v_color">#000000</data>
+      <data key="v_id">2007_Jan_489</data>
+      <data key="v_blob_pagerank">0.000143076</data>
+      <data key="v_nodeType">document</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.04195</data>
+    </node>
+    <node id="n14">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">SERIOUS PROBLEM WITH MACOS V+V HAHAHA</data>
+      <data key="v_Label2">http://seclists.org/fulldisclosure/2007/Jan/490</data>
+      <data key="v_blob_betweenness">324.112</data>
+      <data key="v_local_cluster">0</data>
+      <data key="v_Label1">2007_Jan_491,2007_Jan_492,2007_Jan_493,2007_Jan_495,2007_Jan_496,2007_Jan_497</data>
+      <data key="v_color">#000000</data>
+      <data key="v_id">2007_Jan_490</data>
+      <data key="v_blob_pagerank">0.000244086</data>
+      <data key="v_nodeType">document</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.04195</data>
+    </node>
+    <node id="n15">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">Re: Full-Disclosure Digest, Vol 23, Issue 56</data>
+      <data key="v_Label2">http://seclists.org/fulldisclosure/2007/Jan/560</data>
+      <data key="v_blob_betweenness">6295</data>
+      <data key="v_local_cluster">8</data>
+      <data key="v_Label1">2007_Jan_560,2007_Jan_564,2007_Jan_578</data>
+      <data key="v_color">#000000</data>
+      <data key="v_id">2007_Jan_560</data>
+      <data key="v_blob_pagerank">0.000442921</data>
+      <data key="v_nodeType">document</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.0103806</data>
+    </node>
+    <node id="n16">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">Re: Chinese Professor Cracks Fifth Data Security Algorithm (SHA-1)</data>
+      <data key="v_Label2">http://seclists.org/fulldisclosure/2007/Mar/368</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_local_cluster">1</data>
+      <data key="v_Label1">2007_Mar_368,2007_Mar_372,2007_Mar_378</data>
+      <data key="v_color">#000000</data>
+      <data key="v_id">2007_Mar_368</data>
+      <data key="v_blob_pagerank">0.000140411</data>
+      <data key="v_nodeType">document</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.0533059</data>
+    </node>
+    <node id="n17">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">Re: [funsec] MS Patch Coming Tuesday</data>
+      <data key="v_Label2">http://seclists.org/fulldisclosure/2007/Apr/34</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_local_cluster">1</data>
+      <data key="v_Label1">2007_Apr_34</data>
+      <data key="v_color">#000000</data>
+      <data key="v_id">2007_Apr_34</data>
+      <data key="v_blob_pagerank">0.000140411</data>
+      <data key="v_nodeType">document</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.0533059</data>
+    </node>
+    <node id="n18">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">Re: [linux-elitists] Gutsy Gibbon to include strictly-free branch (fwd)</data>
+      <data key="v_Label2">http://seclists.org/fulldisclosure/2007/Apr/480</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_local_cluster">9</data>
+      <data key="v_Label1">2007_Apr_480</data>
+      <data key="v_color">#000000</data>
+      <data key="v_id">2007_Apr_480</data>
+      <data key="v_blob_pagerank">0.000126136</data>
+      <data key="v_nodeType">document</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.0103806</data>
+    </node>
+    <node id="n19">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">[tech-geeks] OT: Local computer shop is getting sued by NBA Spurs player (fwd)</data>
+      <data key="v_Label2">http://seclists.org/fulldisclosure/2007/May/432</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_local_cluster">10</data>
+      <data key="v_Label1"></data>
+      <data key="v_color">#000000</data>
+      <data key="v_id">2007_May_432</data>
+      <data key="v_blob_pagerank">0.000126136</data>
+      <data key="v_nodeType">document</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.0103806</data>
+    </node>
+    <node id="n20">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">Hashes</data>
+      <data key="v_Label2">http://seclists.org/fulldisclosure/2007/May/513</data>
+      <data key="v_blob_betweenness">12791.3</data>
+      <data key="v_local_cluster">11</data>
+      <data key="v_Label1">2007_May_517,2007_May_518,2007_May_520,2007_May_521,2007_May_525</data>
+      <data key="v_color">#000000</data>
+      <data key="v_id">2007_May_513</data>
+      <data key="v_blob_pagerank">0.000551176</data>
+      <data key="v_nodeType">document</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.0103806</data>
+    </node>
+    <node id="n21">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">The Pwnie Awards!</data>
+      <data key="v_Label2">http://seclists.org/fulldisclosure/2007/Jul/483</data>
+      <data key="v_blob_betweenness">9440</data>
+      <data key="v_local_cluster">12</data>
+      <data key="v_Label1">2007_Jul_486,2007_Jul_496</data>
+      <data key="v_color">#000000</data>
+      <data key="v_id">2007_Jul_483</data>
+      <data key="v_blob_pagerank">0.000379099</data>
+      <data key="v_nodeType">document</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.0103806</data>
+    </node>
+    <node id="n22">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">On the vulnerabilities of web services</data>
+      <data key="v_Label2">http://seclists.org/fulldisclosure/2007/Jul/504</data>
+      <data key="v_blob_betweenness">135.128</data>
+      <data key="v_local_cluster">13</data>
+      <data key="v_Label1">2007_Jul_505,2007_Jul_506</data>
+      <data key="v_color">#000000</data>
+      <data key="v_id">2007_Jul_504</data>
+      <data key="v_blob_pagerank">0.000215644</data>
+      <data key="v_nodeType">document</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.0103806</data>
+    </node>
+    <node id="n23">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">World&apos;s most powerful supercomputer goes online	(fwd)</data>
+      <data key="v_Label2">http://seclists.org/fulldisclosure/2007/Aug/520</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_local_cluster">14</data>
+      <data key="v_Label1"></data>
+      <data key="v_color">#000000</data>
+      <data key="v_id">2007_Aug_520</data>
+      <data key="v_blob_pagerank">0.000126136</data>
+      <data key="v_nodeType">document</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.0103806</data>
+    </node>
+    <node id="n24">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">[Discuss] Public comments are invited on GNSO Council&apos;s WHOIS reports and recommendations. (fwd)</data>
+      <data key="v_Label2">http://seclists.org/fulldisclosure/2007/Sep/315</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_local_cluster">15</data>
+      <data key="v_Label1"></data>
+      <data key="v_color">#000000</data>
+      <data key="v_id">2007_Sep_315</data>
+      <data key="v_blob_pagerank">0.000126136</data>
+      <data key="v_nodeType">document</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.0103806</data>
+    </node>
+    <node id="n25">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">A waste of &quot;research&quot; money</data>
+      <data key="v_Label2">http://seclists.org/fulldisclosure/2007/Oct/118</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_local_cluster">16</data>
+      <data key="v_Label1"></data>
+      <data key="v_color">#000000</data>
+      <data key="v_id">2007_Oct_118</data>
+      <data key="v_blob_pagerank">0.000115747</data>
+      <data key="v_nodeType">document</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.0103806</data>
+    </node>
+    <node id="n26">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">Is Your Kid Going to Jail Before College?</data>
+      <data key="v_Label2">http://seclists.org/fulldisclosure/2007/Oct/143</data>
+      <data key="v_blob_betweenness">5424.24</data>
+      <data key="v_local_cluster">17</data>
+      <data key="v_Label1">2007_Oct_233,2007_Oct_236</data>
+      <data key="v_color">#000000</data>
+      <data key="v_id">2007_Oct_143</data>
+      <data key="v_blob_pagerank">0.000296751</data>
+      <data key="v_nodeType">document</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.0103806</data>
+    </node>
+    <node id="n27">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">IRM Vendor Alerts: Six critical remote	vulnerabilities in TIBCO SmartPGM FX</data>
+      <data key="v_Label2">http://seclists.org/fulldisclosure/2007/Oct/457</data>
+      <data key="v_blob_betweenness">5654.79</data>
+      <data key="v_local_cluster">18</data>
+      <data key="v_Label1">2007_Oct_465,2007_Oct_487,2007_Oct_508,2007_Oct_515</data>
+      <data key="v_color">#000000</data>
+      <data key="v_id">2007_Oct_457</data>
+      <data key="v_blob_pagerank">0.000309534</data>
+      <data key="v_nodeType">document</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.0103806</data>
+    </node>
+    <node id="n28">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">THE FIRESALE IS COMING!!</data>
+      <data key="v_Label2">http://seclists.org/fulldisclosure/2007/Oct/604</data>
+      <data key="v_blob_betweenness">754.593</data>
+      <data key="v_local_cluster">19</data>
+      <data key="v_Label1">2007_Oct_606,2007_Oct_614,2007_Oct_615</data>
+      <data key="v_color">#000000</data>
+      <data key="v_id">2007_Oct_604</data>
+      <data key="v_blob_pagerank">0.000197147</data>
+      <data key="v_nodeType">document</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.0103806</data>
+    </node>
+    <node id="n29">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">Come on,	let&apos;s do funding for Mac OS TrueCrypt porting !</data>
+      <data key="v_Label2">http://seclists.org/fulldisclosure/2007/Oct/607</data>
+      <data key="v_blob_betweenness">1508.59</data>
+      <data key="v_local_cluster">20</data>
+      <data key="v_Label1">2007_Oct_612,2007_Oct_624</data>
+      <data key="v_color">#000000</data>
+      <data key="v_id">2007_Oct_607</data>
+      <data key="v_blob_pagerank">0.00021142</data>
+      <data key="v_nodeType">document</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.0103806</data>
+    </node>
+    <node id="n30">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">Re: Madness? This is KWICKFIX!!!!!!</data>
+      <data key="v_Label2">http://seclists.org/fulldisclosure/2007/Oct/619</data>
+      <data key="v_blob_betweenness">348.472</data>
+      <data key="v_local_cluster">21</data>
+      <data key="v_Label1">2007_Oct_619,2007_Oct_620,2007_Oct_623</data>
+      <data key="v_color">#000000</data>
+      <data key="v_id">2007_Oct_619</data>
+      <data key="v_blob_pagerank">0.000191315</data>
+      <data key="v_nodeType">document</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.0103806</data>
+    </node>
+    <node id="n31">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">Perl or python: the debate</data>
+      <data key="v_Label2">http://seclists.org/fulldisclosure/2007/Oct/629</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_local_cluster">22</data>
+      <data key="v_Label1">2007_Oct_652</data>
+      <data key="v_color">#000000</data>
+      <data key="v_id">2007_Oct_629</data>
+      <data key="v_blob_pagerank">0.000115747</data>
+      <data key="v_nodeType">document</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.0103806</data>
+    </node>
+    <node id="n32">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">DailyGadi: Russian whores</data>
+      <data key="v_Label2">http://seclists.org/fulldisclosure/2007/Oct/632</data>
+      <data key="v_blob_betweenness">0</data>
+      <data key="v_local_cluster">23</data>
+      <data key="v_Label1">2007_Oct_647</data>
+      <data key="v_color">#000000</data>
+      <data key="v_id">2007_Oct_632</data>
+      <data key="v_blob_pagerank">0.000115747</data>
+      <data key="v_nodeType">document</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.0103806</data>
+    </node>
+    <node id="n33">
+      <data key="v_blob_cluster">4</data>
+      <data key="v_label">Cyber Jihad? Yeah, right...</data>
+      <data key="v_Label2">http://seclists.org/fulldisclosure/2007/Nov/274</data>
+      <data key="v_blob_betweenness">4414.17</data>
+      <data key="v_local_cluster">24</data>
+      <data key="v_Label1">2007_Nov_275,2007_Nov_296,2007_Nov_299</data>
+      <data key="v_color">#000000</data>
+      <data key="v_id">2007_Nov_274</data>
+      <data key="v_blob_pagerank">0.000353729</data>
+      <data key="v_nodeType">document</data>
+      <data key="v_local_betweenness">0</data>
+      <data key="v_local_pagerank">0.0103806</data>
+    </node>
+    <edge source="n0" target="n8">
+      <data key="e_Edge Label"></data>
+      <data key="e_id">2671</data>
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n0" target="n9">
+      <data key="e_Edge Label"></data>
+      <data key="e_id">2676</data>
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n0" target="n10">
+      <data key="e_Edge Label"></data>
+      <data key="e_id">2670</data>
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n0" target="n11">
+      <data key="e_Edge Label"></data>
+      <data key="e_id">2672</data>
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n0" target="n12">
+      <data key="e_Edge Label"></data>
+      <data key="e_id">2674</data>
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n0" target="n13">
+      <data key="e_Edge Label"></data>
+      <data key="e_id">2677</data>
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n0" target="n14">
+      <data key="e_Edge Label"></data>
+      <data key="e_id">2678</data>
+      <data key="e_weight">3</data>
+    </edge>
+    <edge source="n1" target="n16">
+      <data key="e_Edge Label"></data>
+      <data key="e_id">691</data>
+      <data key="e_weight">3</data>
+    </edge>
+    <edge source="n1" target="n17">
+      <data key="e_Edge Label"></data>
+      <data key="e_id">686</data>
+      <data key="e_weight">1</data>
+    </edge>
+  </graph>
+</graphml>
