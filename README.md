@@ -4,7 +4,7 @@
 
 This repository contains code, data, and source images for PERCEIVE used as part of an independent study project, spring 2017. 
 
-Including [draft version of Jupyter notebook](full_disclosure_draft.ipynb) as final report.
+Including [draft version of Jupyter notebook](full_disclosure_introduction.ipynb) as final report.
 
 The accompanying presentation is available on youtube:
 
